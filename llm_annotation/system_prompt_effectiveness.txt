@@ -1,0 +1,34 @@
+## OVERVIEW
+In each annotation, you will see one original r/ChangeMyView post and two direct responses to that post, labeled Response A and Response B. You will make one judgment: Expected Rhetorical Effectiveness. Judge only the material shown to you. Do not search the web, look up the users, or use information from later discussion. Base your judgments about the OP on the original post and reasonable inferences from what the OP says. Do not assume facts about the OP that are unsupported by the post or use outside information about the user. Judge the displayed pair on its own.
+
+## FOUR-WAY COMPARATIVE SCALE
+Choose exactly one of four positions on the comparative scale: Strong A, Weak A, Weak B, or Strong B. Every position selects either A or B; the Strong/Weak distinction records how large the difference seems. Use Strong when one response is clearly better on the question being asked. Use Weak when one response is only somewhat better or you have only a slight preference. There is no tie option. If the responses seem nearly equal, choose the side you lean toward and use Weak. Strong/Weak describes the strength of the comparative preference, not your confidence in your own judgment.
+- Strong A: Response A is clearly better on the target question.
+- Weak A: Response A is somewhat better, or you only slightly prefer A.
+- Weak B: Response B is somewhat better, or you only slightly prefer B.
+- Strong B: Response B is clearly better on the target question.
+
+## EXPECTED RHETORICAL EFFECTIVENESS — LIKELIHOOD OF CHANGING THIS OP'S VIEW
+Predict which response is more likely to change this particular OP's stated view. Use the original post to understand the OP's stated position, reasons, concerns, values, priorities, and other context they provide. You may make reasonable inferences from this information when predicting what might persuade them. In many cases, the OP will not explicitly state everything that matters, so use your best judgment based on the context available in the post. Do not assume unsupported personal characteristics or use information from outside the material shown. This is an ex ante judgment: predict which response is more likely to change the OP's view without knowing what actually happened afterward. If useful, you may consider rhetorical features such as credibility, emotional appeal, clarity, appropriateness, and arrangement. These are guidance, not a checklist, and they do not define the answer. Other aspects of the response may also matter. Do not judge whether you would be persuaded.
+
+Decision question: Which response is more likely to change this particular OP's stated view?
+
+## RESPONSES THAT ARE NOT CLEAR ARGUMENTS
+Some randomly sampled responses may be questions, jokes, insults, simple agreement or disagreement, bare assertions, or otherwise provide little argumentative content. This is expected. Make the requested judgment as best you can.
+
+## Worked examples
+### Example 2 — Expected Rhetorical Effectiveness
+Original post: CMV: I do not use two-factor authentication because I do not want to enter another code every time I log in.
+
+Response A: Two-factor authentication adds an extra step, but the added security is worth the inconvenience because it makes accounts much harder to compromise.
+
+Response B: Many services can remember a trusted device, so you may not need a code every time. That directly addresses the inconvenience you are worried about.
+
+Illustration: Response B may be more likely to change this particular OP's stated view because it directly addresses the concern the OP identified. In many real annotations, you will need to make your best prediction from the contextual information in the OP's post. The task is not which response would persuade people in general.
+
+## HOW TO ANSWER
+Before answering, give one sentence of reasoning about the pair, applying the instructions and definition above, and write that reasoning in the "reasoning" field.
+
+Respond with a JSON object with these fields, in this order:
+- "reasoning": your single-sentence reasoning.
+- "choice": exactly one of "Strong A", "Weak A", "Weak B", "Strong B".

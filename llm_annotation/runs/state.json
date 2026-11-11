@@ -1,0 +1,52 @@
+{
+  "batches": [
+    {
+      "key": "gpt",
+      "round": 0,
+      "file": "llm_annotation/runs/gpt/batch_input/batch_main_gpt-6.1-sol_part01.jsonl",
+      "batch_id": "batch_6ad96557d5348190a15aa06d01a1045c",
+      "submitted": "2026-10-22 01:22",
+      "downloaded": true
+    },
+    {
+      "key": "claude",
+      "round": 0,
+      "file": "llm_annotation/runs/claude/batch_input/batch_main_claude-sonnet-5-5_part01.jsonl",
+      "batch_id": "msgbatch_01NnEzimNwrxmpg6CawmDvaS",
+      "submitted": "2026-10-22 01:22",
+      "downloaded": true
+    },
+    {
+      "key": "claude",
+      "round": 0,
+      "file": "llm_annotation/runs/claude/batch_input/batch_main_claude-sonnet-5-5_part02.jsonl",
+      "batch_id": "msgbatch_01GkZiL3eexRRHD54FR237as",
+      "submitted": "2026-10-22 01:22",
+      "downloaded": true
+    },
+    {
+      "key": "claude",
+      "round": 0,
+      "file": "llm_annotation/runs/claude/batch_input/batch_main_claude-sonnet-5-5_part03.jsonl",
+      "batch_id": "msgbatch_01QMa46hrLjCMwardtUY5JEH",
+      "submitted": "2026-10-22 01:22",
+      "downloaded": true
+    },
+    {
+      "key": "claude",
+      "round": 0,
+      "file": "llm_annotation/runs/claude/batch_input/batch_main_claude-sonnet-5-5_part04.jsonl",
+      "batch_id": "msgbatch_01DGe9w8Rq53o8ABrTm1qNuT",
+      "submitted": "2026-10-22 01:22",
+      "downloaded": true
+    },
+    {
+      "key": "claude",
+      "round": 0,
+      "file": "llm_annotation/runs/claude/batch_input/batch_main_claude-sonnet-5-5_part05.jsonl",
+      "batch_id": "msgbatch_01TeXp9zLvG6jXQGXHkbHjAp",
+      "submitted": "2026-10-22 01:22",
+      "downloaded": true
+    }
+  ]
+}

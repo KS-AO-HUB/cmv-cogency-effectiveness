@@ -1,0 +1,30 @@
+{
+  "protocol_version": "cmv_annotation_v4_2026_09_24",
+  "protocol_sha256": "19bb0c414c2d14a5f04edb07acc2bc995f23882d2f0abecf44a143e6b64a766c",
+  "provider": "anthropic",
+  "model": "claude-sonnet-5-5",
+  "reasoning_effort": "low",
+  "thinking": "between_tools",
+  "max_tokens": 1024,
+  "examples": "metric",
+  "orientations": [
+    "AB",
+    "BA"
+  ],
+  "runs": 1,
+  "n_posts": 115,
+  "n_pairs": 1725,
+  "n_requests": 10350,
+  "files": [
+    "batch_main_claude-sonnet-5-5_part01.jsonl",
+    "batch_main_claude-sonnet-5-5_part02.jsonl",
+    "batch_main_claude-sonnet-5-5_part03.jsonl",
+    "batch_main_claude-sonnet-5-5_part04.jsonl",
+    "batch_main_claude-sonnet-5-5_part05.jsonl"
+  ],
+  "system_prompt_sha256": {
+    "cogency": "db4451e86816ada884a08a8b3d64a13c937731679d9082eaedf42356e34f8543",
+    "effectiveness": "094ae1bde04543f1321f3c82469b6b34a2d82fb9b73119a68ac4013c5a4e3b60",
+    "evidence": "655e526739fabb69ab333d990614996249237aa1af788530644e9f20230c7316"
+  }
+}
