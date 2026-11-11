@@ -1,0 +1,17 @@
+\begin{table}[htbp]
+\centering
+\small
+\caption{Audience-specificity increment: share of the effectiveness ranking not explained by cogency}
+\label{tab:S1_lambda}
+\resizebox{\ifdim\width>\textwidth\textwidth\else\width\fi}{!}{%
+\begin{tabular}{llrrrr}
+\toprule
+Method & Correlation C-E (rank r) & Lambda observed [95\% CI] & Reliability C / E & Correlation corrected for unreliability & Lambda corrected \\
+\midrule
+Human (H1) & 0.84 & 0.29 [0.23, 0.35] & 0.67 / 0.64 & 1.00 & 0.00 \\
+GPT-6.1 Sol & 0.84 & 0.29 [0.24, 0.35] & 0.98 / 0.97 & 0.86 & 0.26 \\
+Claude Sonnet 5.5 & 0.85 & 0.28 [0.22, 0.34] & 0.95 / 0.95 & 0.89 & 0.20 \\
+\bottomrule
+\end{tabular}}
+\par\vspace{2pt}\footnotesize\raggedright Lambda = 1 - r\textasciicircum{}2. Correction divides r by the square root of the two reliabilities; values at the boundary are capped at 1.
+\end{table}

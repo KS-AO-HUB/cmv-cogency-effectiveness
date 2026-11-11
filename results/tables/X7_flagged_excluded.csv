@@ -1,0 +1,5 @@
+Model,Construct,"Same winner, all pairs","Same winner, flagged pairs excluded",Flagged pairs
+Claude Sonnet 5.5,cogency,85.8%,85.1%,143
+Claude Sonnet 5.5,effectiveness,80.1%,78.8%,143
+GPT-6.1 Sol,cogency,81.4%,80.6%,143
+GPT-6.1 Sol,effectiveness,81.9%,81.3%,143

@@ -1,0 +1,18 @@
+\begin{table}[htbp]
+\centering
+\small
+\caption{LLM agreement with the human (H1) on individual pairs}
+\label{tab:B1_pairwise}
+\resizebox{\ifdim\width>\textwidth\textwidth\else\width\fi}{!}{%
+\begin{tabular}{llrrrrr}
+\toprule
+Model & Construct & Judgments & Same winner & Kappa (winner) & Exact 4-point label & Weighted kappa \\
+\midrule
+GPT-6.1 Sol & cogency & 3450 & 81.4\% [79.4, 83.3] & 0.63 & 58.2\% [55.5, 60.8] & 0.61 [0.57, 0.64] \\
+GPT-6.1 Sol & effectiveness & 3450 & 81.9\% [79.7, 83.9] & 0.64 & 59.3\% [56.6, 62.0] & 0.62 [0.59, 0.65] \\
+Claude Sonnet 5.5 & cogency & 3450 & 85.8\% [84.3, 87.3] & 0.72 & 60.2\% [57.3, 63.1] & 0.65 [0.62, 0.68] \\
+Claude Sonnet 5.5 & effectiveness & 3450 & 80.1\% [78.1, 81.9] & 0.60 & 52.6\% [49.8, 55.5] & 0.56 [0.53, 0.59] \\
+\bottomrule
+\end{tabular}}
+\par\vspace{2pt}\footnotesize\raggedright Each pair is judged twice by each model (both presentation orders). 95\% CIs resample posts.
+\end{table}

@@ -1,0 +1,17 @@
+\begin{table}[htbp]
+\centering
+\small
+\caption{Agreement with the human excluding pairs with a response flagged as non-argumentative or unreadable}
+\label{tab:X7_flagged_excluded}
+\resizebox{\ifdim\width>\textwidth\textwidth\else\width\fi}{!}{%
+\begin{tabular}{llrrr}
+\toprule
+Model & Construct & Same winner, all pairs & Same winner, flagged pairs excluded & Flagged pairs \\
+\midrule
+Claude Sonnet 5.5 & cogency & 85.8\% & 85.1\% & 143 \\
+Claude Sonnet 5.5 & effectiveness & 80.1\% & 78.8\% & 143 \\
+GPT-6.1 Sol & cogency & 81.4\% & 80.6\% & 143 \\
+GPT-6.1 Sol & effectiveness & 81.9\% & 81.3\% & 143 \\
+\bottomrule
+\end{tabular}}
+\end{table}

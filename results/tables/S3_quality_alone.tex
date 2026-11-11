@@ -1,0 +1,20 @@
+\begin{table}[htbp]
+\centering
+\small
+\caption{Held-out within-post delta AUC: quality alone, length/timing/position alone, and both}
+\label{tab:S3_quality_alone}
+\resizebox{\ifdim\width>\textwidth\textwidth\else\width\fi}{!}{%
+\begin{tabular}{llrrrrr}
+\toprule
+Measurement & length only & length, timing, position & quality only & quality + length, timing, position & Quality only minus length, timing, position & Quality only minus chance (.50) \\
+\midrule
+Human (H1), 115 posts & 0.73 & 0.77 & 0.75 & 0.76 & -0.02 [-0.07, +0.03] & +0.25 [+0.19, +0.30] \\
+Human (H2), 115 posts & 0.73 & 0.77 & 0.74 & 0.76 & -0.03 [-0.08, +0.02] & +0.24 [+0.18, +0.29] \\
+Human (H3), 58 posts & 0.69 & 0.72 & 0.69 & 0.74 & -0.03 [-0.10, +0.05] & +0.19 [+0.11, +0.26] \\
+Human (H1), same 58 posts & 0.69 & 0.72 & 0.71 & 0.73 & -0.01 [-0.09, +0.08] & +0.21 [+0.14, +0.28] \\
+Claude Sonnet 5.5, 115 posts & 0.73 & 0.77 & 0.73 & 0.73 & -0.04 [-0.10, +0.03] & +0.23 [+0.18, +0.28] \\
+GPT-6.1 Sol, 115 posts & 0.73 & 0.77 & 0.75 & 0.77 & -0.02 [-0.08, +0.05] & +0.25 [+0.20, +0.31] \\
+\bottomrule
+\end{tabular}}
+\par\vspace{2pt}\footnotesize\raggedright Five-fold cross-validation by post (same fold rule as S3\_incremental; the 58-post rows are folded among those posts). Quality = both construct rankings of that measurement. Differences with 95\% bootstrap CIs over posts.
+\end{table}

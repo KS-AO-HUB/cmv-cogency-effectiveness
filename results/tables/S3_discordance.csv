@@ -1,0 +1,6 @@
+Method,Pairs,Different winners for C and E
+"Human: H1, 115 posts",1725,12.2%
+"Human: H3, 58 posts",870,8.3%
+"Human: H2, 115 posts",1725,0.5%
+"GPT-6.1 Sol, 115 posts",1725,9.7% (order-split pairs excluded: 10.1%)
+"Claude Sonnet 5.5, 115 posts",1725,7.1% (order-split pairs excluded: 16.0%)

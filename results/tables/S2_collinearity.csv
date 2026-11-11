@@ -1,0 +1,4 @@
+Method,Correlation c-e,Variance inflation (1/(1-r^2))
+Human (H1),0.84,3.47
+GPT-6.1 Sol,0.84,3.42
+Claude Sonnet 5.5,0.85,3.63

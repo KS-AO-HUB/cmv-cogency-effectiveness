@@ -1,0 +1,22 @@
+\begin{table}[htbp]
+\centering
+\small
+\caption{Study 1 with each human annotator as the reference}
+\label{tab:C1_study1_by_reference}
+\resizebox{\ifdim\width>\textwidth\textwidth\else\width\fi}{!}{%
+\begin{tabular}{llrrrrr}
+\toprule
+Human reference & Model & Matching tau-b, C / E & Delta C [CI], Holm p & Delta E [CI], Holm p & Gamma [CI], Holm p & Human coupling tau-b \\
+\midrule
+H1, 115 posts & GPT-6.1 Sol & 0.66 / 0.67 & -0.03 [-0.07, 0.01], 0.316 & 0.03 [0.00, 0.07], 0.225 & -0.00 [-0.06, 0.05], 1.000 & 0.76 \\
+H1, 115 posts & Claude Sonnet 5.5 & 0.76 / 0.64 & 0.04 [0.00, 0.07], 0.198 & 0.03 [-0.00, 0.07], 0.316 & 0.01 [-0.05, 0.07], 1.000 & 0.76 \\
+H1, H3's 58 posts & GPT-6.1 Sol & 0.65 / 0.68 & -0.04 [-0.09, 0.01], 0.364 & 0.06 [0.01, 0.11], 0.075 & -0.02 [-0.11, 0.06], 1.000 & 0.77 \\
+H1, H3's 58 posts & Claude Sonnet 5.5 & 0.77 / 0.64 & 0.03 [-0.01, 0.07], 0.435 & 0.05 [0.01, 0.09], 0.054 & 0.02 [-0.06, 0.10], 1.000 & 0.77 \\
+H3, 58 posts & GPT-6.1 Sol & 0.51 / 0.59 & -0.02 [-0.08, 0.04], 0.966 & 0.03 [-0.02, 0.08], 0.788 & -0.10 [-0.18, -0.02], 0.114 & 0.84 \\
+H3, 58 posts & Claude Sonnet 5.5 & 0.61 / 0.62 & 0.04 [-0.02, 0.11], 0.788 & -0.00 [-0.05, 0.04], 0.966 & -0.06 [-0.12, 0.02], 0.745 & 0.84 \\
+H2, 115 posts & GPT-6.1 Sol & 0.43 / 0.44 & -0.01 [-0.05, 0.03], 1.000 & 0.00 [-0.03, 0.05], 1.000 & -0.23 [-0.27, -0.19], 0.006 & 0.99 \\
+H2, 115 posts & Claude Sonnet 5.5 & 0.57 / 0.52 & 0.05 [0.01, 0.09], 0.052 & -0.05 [-0.08, -0.01], 0.052 & -0.21 [-0.25, -0.18], 0.006 & 0.99 \\
+\bottomrule
+\end{tabular}}
+\par\vspace{2pt}\footnotesize\raggedright Mean within-post Kendall tau-b; 95\% post-bootstrap CIs; Holm over the six contrasts within each reference.
+\end{table}

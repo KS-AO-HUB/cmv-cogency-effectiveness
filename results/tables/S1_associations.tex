@@ -1,0 +1,18 @@
+\begin{table}[htbp]
+\centering
+\small
+\caption{Associations between LLM and human (H1) rankings}
+\label{tab:S1_associations}
+\resizebox{\ifdim\width>\textwidth\textwidth\else\width\fi}{!}{%
+\begin{tabular}{llrrr}
+\toprule
+LLM measurement & Human cogency (tau-b) & Human cogency (rank r) & Human effectiveness (tau-b) & Human effectiveness (rank r) \\
+\midrule
+GPT-6.1 Sol cogency & 0.66 [0.62, 0.70] & 0.76 [0.73, 0.80] & 0.63 [0.59, 0.68] & 0.74 [0.70, 0.78] \\
+GPT-6.1 Sol effectiveness & 0.69 [0.65, 0.74] & 0.78 [0.75, 0.82] & 0.67 [0.62, 0.71] & 0.76 [0.72, 0.80] \\
+Claude Sonnet 5.5 cogency & 0.76 [0.73, 0.79] & 0.86 [0.83, 0.88] & 0.61 [0.57, 0.65] & 0.72 [0.68, 0.76] \\
+Claude Sonnet 5.5 effectiveness & 0.73 [0.69, 0.76] & 0.82 [0.79, 0.85] & 0.64 [0.60, 0.68] & 0.75 [0.71, 0.79] \\
+\bottomrule
+\end{tabular}}
+\par\vspace{2pt}\footnotesize\raggedright Mean within-post Kendall tau-b and pooled rank correlation, 95\% post-bootstrap CIs. Same-construct cells are the diagonal.
+\end{table}

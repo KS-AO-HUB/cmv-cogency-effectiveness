@@ -1,0 +1,9 @@
+Model,Outcome,Level (c+e)/2,Difference (e-c)/2,Joint test p,"Holm p (D, R*, U)"
+GPT-6.1 Sol,Delta (D),"3.43 [2.14, 6.38]","3.38 [0.59, 15.99]",<.001,<.001
+GPT-6.1 Sol,"OP reply, no delta (R* vs. N)","0.80 [0.53, 1.22]","1.36 [0.41, 4.51]",0.508,0.508
+GPT-6.1 Sol,Delta vs. no reply (D vs. N),"3.55 [1.99, 9.09]","2.97 [0.35, 28.37]",<.001,
+GPT-6.1 Sol,Score percentile (U),"+7.8 [+3.2, +12.3]","+7.0 [-3.2, +19.3]",0.003,0.006
+Claude Sonnet 5.5,Delta (D),"3.00 [1.61, 6.23]","0.60 [0.11, 2.37]",0.001,0.003
+Claude Sonnet 5.5,"OP reply, no delta (R* vs. N)","0.86 [0.55, 1.32]","1.02 [0.28, 3.69]",0.817,0.817
+Claude Sonnet 5.5,Delta vs. no reply (D vs. N),"3.08 [1.59, 7.05]","0.64 [0.07, 4.18]",0.007,
+Claude Sonnet 5.5,Score percentile (U),"+9.5 [+3.9, +15.0]","-6.8 [-18.7, +3.9]",0.006,0.011

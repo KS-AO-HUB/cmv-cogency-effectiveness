@@ -1,0 +1,22 @@
+\begin{table}[htbp]
+\centering
+\small
+\caption{Behavioral outcomes on LLM cogency and effectiveness (25th to 75th within-post percentile), 115 posts}
+\label{tab:S2_outcomes}
+\resizebox{\ifdim\width>\textwidth\textwidth\else\width\fi}{!}{%
+\begin{tabular}{llrrrr}
+\toprule
+Model & Outcome & Cogency & Effectiveness & Joint test p & Holm p (D, R*, U) \\
+\midrule
+GPT-6.1 Sol & Delta (D) & 1.01 [0.45, 2.50] & 3.41 [1.39, 8.46] & \textless{}.001 & \textless{}.001 \\
+GPT-6.1 Sol & OP reply, no delta (R* vs. N) & 0.77 [0.42, 1.42] & 1.05 [0.54, 2.05] & 0.508 & 0.508 \\
+GPT-6.1 Sol & Delta vs. no reply (D vs. N) & 1.09 [0.39, 3.32] & 3.25 [1.14, 12.74] & \textless{}.001 &  \\
+GPT-6.1 Sol & Score percentile (U) & +0.4 [-6.0, +6.4] & +7.4 [+2.2, +13.9] & 0.003 & 0.006 \\
+Claude Sonnet 5.5 & Delta (D) & 2.24 [1.03, 5.79] & 1.34 [0.59, 2.95] & 0.001 & 0.003 \\
+Claude Sonnet 5.5 & OP reply, no delta (R* vs. N) & 0.92 [0.46, 1.91] & 0.94 [0.49, 1.82] & 0.817 & 0.817 \\
+Claude Sonnet 5.5 & Delta vs. no reply (D vs. N) & 2.19 [0.90, 7.30] & 1.41 [0.44, 4.11] & 0.007 &  \\
+Claude Sonnet 5.5 & Score percentile (U) & +8.2 [+1.7, +15.1] & +1.3 [-4.3, +6.8] & 0.006 & 0.011 \\
+\bottomrule
+\end{tabular}}
+\par\vspace{2pt}\footnotesize\raggedright Odds ratios for D, R* vs. N and D vs. N; percentile points for U. 95\% post-bootstrap CIs. Covariates: log words, log hours since OP and its square, log response order.
+\end{table}

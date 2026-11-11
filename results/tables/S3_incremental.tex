@@ -1,0 +1,20 @@
+\begin{table}[htbp]
+\centering
+\small
+\caption{Held-out-post discrimination of nested models, 115 posts}
+\label{tab:S3_incremental}
+\resizebox{\ifdim\width>\textwidth\textwidth\else\width\fi}{!}{%
+\begin{tabular}{llrrrrrr}
+\toprule
+Measurement & Metric & covariates only & cogency & effectiveness & both & Gain from adding effectiveness & Gain from adding cogency \\
+\midrule
+GPT-6.1 Sol & Delta: within-post AUC & 0.77 & 0.76 & 0.78 & 0.77 & +0.008 [-0.025, +0.041] & -0.012 [-0.025, +0.000] \\
+GPT-6.1 Sol & Score: within-post rank r & 0.55 & 0.54 & 0.54 & 0.54 & -0.001 [-0.021, +0.018] & -0.007 [-0.017, +0.002] \\
+Claude Sonnet 5.5 & Delta: within-post AUC & 0.77 & 0.75 & 0.75 & 0.73 & -0.019 [-0.035, -0.002] & -0.023 [-0.049, +0.004] \\
+Claude Sonnet 5.5 & Score: within-post rank r & 0.55 & 0.55 & 0.55 & 0.55 & -0.004 [-0.010, +0.001] & -0.001 [-0.027, +0.023] \\
+Human (H1) & Delta: within-post AUC & 0.77 & 0.76 & 0.76 & 0.76 & +0.002 [-0.006, +0.012] & +0.002 [-0.029, +0.033] \\
+Human (H1) & Score: within-post rank r & 0.55 & 0.56 & 0.54 & 0.56 & -0.001 [-0.010, +0.009] & +0.017 [-0.006, +0.040] \\
+\bottomrule
+\end{tabular}}
+\par\vspace{2pt}\footnotesize\raggedright Means over held-out posts; gains with 95\% bootstrap CIs. Delta AUC uses only posts with a delta. Human row is supplementary.
+\end{table}

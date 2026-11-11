@@ -1,0 +1,731 @@
+﻿pair_key,post_id,sample_post_order,R1,R2,C_H1,C_H2,C_H3,C_unanimous_winner,C_strong_reversal,E_H1,E_H2,E_H3,E_unanimous_winner,E_strong_reversal,Ev_H1,Ev_H2,Ev_H3,Ev_unanimous_pattern,Z_H1,Z_H2,Z_H3,n_disagreements,op_title,R1_text,R2_text
+1dzqaz|c9ves68|c9vtifn,1dzqaz,0,c9ves68,c9vtifn,Weak R1,Strong R2,Weak R2,False,False,Weak R1,Strong R2,Weak R2,False,False,both,both,neither,False,0,0,0,3,"I believe that the new ""score hiding"" system is poorly done and only makes viewing comment threads more annoying. CMV","The score hiding may not effect the order with which the comments are displayed over all but in threads, which are really the purpose of this sub-reddit as they denote discussion, it is actually incredibly useful in ensuring people remain unbiased. Far too often around reddit I see 'performance debates' where one speaker accumulates a great amount of upvotes and the other a great amount of downvotes. This causes people to gloss over the latter and simply read the first as they believe it to be the 'good' one. As we want people to read both sides of the argument and decide for themselves before giving upvotes I believe the Score Hiding system is actually very useful.","To some extent, our opinions and perspectives are affected by the impressions of others, or the group dynamic. If you think about it - we always read the comment score, when really why should we? Shouldn't the content of the comment be valid enough? Is it that important to see what other people think before thinking ourselves?
+
+For example: seeing a comment that reads 'wow that's great' with many down votes will subconsciously make us read it in a negative, sarcastic tone (or at least make us believe that was its intent). It takes just one person commenting on a comment: 'I don't know why your being downvoted' to sway people into sympathising a little with the original commenter - such is the power of social affirmation and mob mentality.
+
+Getting rid of the comment score does more good than harm - it's really irrelevant meta-information that gives us a sense that we're more informed, which is nice but not when it has an adverse effect on effective discussion."
+1dzqaz|c9ves68|c9vevvr,1dzqaz,0,c9ves68,c9vevvr,Weak R2,Weak R1,Weak R1,False,False,Strong R1,Weak R1,Weak R2,False,False,both,both,neither,False,1,0,1,3,"I believe that the new ""score hiding"" system is poorly done and only makes viewing comment threads more annoying. CMV","The score hiding may not effect the order with which the comments are displayed over all but in threads, which are really the purpose of this sub-reddit as they denote discussion, it is actually incredibly useful in ensuring people remain unbiased. Far too often around reddit I see 'performance debates' where one speaker accumulates a great amount of upvotes and the other a great amount of downvotes. This causes people to gloss over the latter and simply read the first as they believe it to be the 'good' one. As we want people to read both sides of the argument and decide for themselves before giving upvotes I believe the Score Hiding system is actually very useful.","Often I find myself following the opinion of the mass. When I see a comment is controversial, I become especially critical to what is being said. And when I see a comment that has a very good upvote downvote ratio I rarely disagree, because I don't expect myself to.
+
+So I think it forces people to think more for themselves and not follow the hive mind.
+
+It's true that the sort order wasn't changed, this is necessary to not change the concept of Reddit's upvote system too much. It's a good compromise in my opinion, especially for discussion based subreddits like CMV.
+
+"
+1dzqaz|c9vfrhd|c9vp47c,1dzqaz,0,c9vfrhd,c9vp47c,Strong R2,Weak R1,Weak R1,False,False,Strong R2,Weak R1,Strong R1,False,True,neither,both,neither,False,0,0,0,3,"I believe that the new ""score hiding"" system is poorly done and only makes viewing comment threads more annoying. CMV","But to be honest.. I prefer that an upvoted comment gets to the top. I like this part of reddit compared to forums and what not where its usually the guy who posts first that gets to the top, which in most cases is like the first comments in youtube (pretty crap).
+
+I dont really have an opinion of the hiding vote scores. I can see both ways, it does stop the knee jerk voting, but it also kind of ruins the flow of reading comments (but thats just my opinion).","The only reason its annoying to you is because you cant see the score. The major reason for the score hiding was to prevent those ""hiliarious"" comment chains that clog up threads."
+1dzqaz|c9vevvr|c9vjly7,1dzqaz,0,c9vevvr,c9vjly7,Weak R2,Strong R2,Strong R2,True,False,Weak R2,Weak R1,Strong R2,False,False,both,both,R2_only,False,0,1,0,2,"I believe that the new ""score hiding"" system is poorly done and only makes viewing comment threads more annoying. CMV","Often I find myself following the opinion of the mass. When I see a comment is controversial, I become especially critical to what is being said. And when I see a comment that has a very good upvote downvote ratio I rarely disagree, because I don't expect myself to.
+
+So I think it forces people to think more for themselves and not follow the hive mind.
+
+It's true that the sort order wasn't changed, this is necessary to not change the concept of Reddit's upvote system too much. It's a good compromise in my opinion, especially for discussion based subreddits like CMV.
+
+",">No one looks at a comment and thinks, ""Wow, 2140 other people liked this, certainly it's worth another!""
+
+[They did a study](http://www.nytimes.com/2007/04/15/magazine/15wwlnidealab.t.html?_r=0)  regarding this as it relates to popular music.
+
+>Recently, my collaborators, Matthew Salganik and Peter Dodds, and I conducted just such a Web-based experiment. In our study, published last year in Science, more than 14,000 participants registered at our Web site, Music Lab (www.musiclab.columbia.edu), and were asked to listen to, rate and, if they chose, download songs by bands they had never heard of. **Some of the participants saw only the names of the songs and bands, while others also saw how many times the songs had been downloaded by previous participants.** This second group — in what we called the “social influence” condition — was further split into eight parallel “worlds” such that participants could see the prior downloads of people only in their own world. We didn’t manipulate any of these rankings — all the artists in all the worlds started out identically, with zero downloads — but because the different worlds were kept separate, they subsequently evolved independently of one another.
+
+>This setup let us test the possibility of prediction in two very direct ways. First, if people know what they like regardless of what they think other people like, the most successful songs should draw about the same amount of the total market share in both the independent and social-influence conditions — that is, hits shouldn’t be any bigger just because the people downloading them know what other people downloaded. And second, the very same songs — the “best” ones — should become hits in all social-influence worlds.
+
+>What we found, however, was exactly the opposite. **In all the social-influence worlds, the most popular songs were much more popular (and the least popular songs were less popular) than in the independent condition. At the same time, however, the particular songs that became hits were different in different worlds, just as cumulative-advantage theory would predict.** Introducing social influence into human decision making, in other words, didn’t just make the hits bigger; it also made them more unpredictable.
+
+This seems pretty analogous to the popularity of comments on reddit. "
+1dzqaz|c9ves68|c9vjly7,1dzqaz,0,c9ves68,c9vjly7,Weak R2,Strong R2,Strong R2,True,False,Strong R1,Weak R1,Strong R2,False,True,both,both,R2_only,False,1,1,0,2,"I believe that the new ""score hiding"" system is poorly done and only makes viewing comment threads more annoying. CMV","The score hiding may not effect the order with which the comments are displayed over all but in threads, which are really the purpose of this sub-reddit as they denote discussion, it is actually incredibly useful in ensuring people remain unbiased. Far too often around reddit I see 'performance debates' where one speaker accumulates a great amount of upvotes and the other a great amount of downvotes. This causes people to gloss over the latter and simply read the first as they believe it to be the 'good' one. As we want people to read both sides of the argument and decide for themselves before giving upvotes I believe the Score Hiding system is actually very useful.",">No one looks at a comment and thinks, ""Wow, 2140 other people liked this, certainly it's worth another!""
+
+[They did a study](http://www.nytimes.com/2007/04/15/magazine/15wwlnidealab.t.html?_r=0)  regarding this as it relates to popular music.
+
+>Recently, my collaborators, Matthew Salganik and Peter Dodds, and I conducted just such a Web-based experiment. In our study, published last year in Science, more than 14,000 participants registered at our Web site, Music Lab (www.musiclab.columbia.edu), and were asked to listen to, rate and, if they chose, download songs by bands they had never heard of. **Some of the participants saw only the names of the songs and bands, while others also saw how many times the songs had been downloaded by previous participants.** This second group — in what we called the “social influence” condition — was further split into eight parallel “worlds” such that participants could see the prior downloads of people only in their own world. We didn’t manipulate any of these rankings — all the artists in all the worlds started out identically, with zero downloads — but because the different worlds were kept separate, they subsequently evolved independently of one another.
+
+>This setup let us test the possibility of prediction in two very direct ways. First, if people know what they like regardless of what they think other people like, the most successful songs should draw about the same amount of the total market share in both the independent and social-influence conditions — that is, hits shouldn’t be any bigger just because the people downloading them know what other people downloaded. And second, the very same songs — the “best” ones — should become hits in all social-influence worlds.
+
+>What we found, however, was exactly the opposite. **In all the social-influence worlds, the most popular songs were much more popular (and the least popular songs were less popular) than in the independent condition. At the same time, however, the particular songs that became hits were different in different worlds, just as cumulative-advantage theory would predict.** Introducing social influence into human decision making, in other words, didn’t just make the hits bigger; it also made them more unpredictable.
+
+This seems pretty analogous to the popularity of comments on reddit. "
+1dzqaz|c9vevvr|c9vtifn,1dzqaz,0,c9vevvr,c9vtifn,Strong R2,Strong R2,Strong R2,True,False,Weak R1,Strong R2,Weak R2,False,False,both,both,R2_only,False,1,0,0,2,"I believe that the new ""score hiding"" system is poorly done and only makes viewing comment threads more annoying. CMV","Often I find myself following the opinion of the mass. When I see a comment is controversial, I become especially critical to what is being said. And when I see a comment that has a very good upvote downvote ratio I rarely disagree, because I don't expect myself to.
+
+So I think it forces people to think more for themselves and not follow the hive mind.
+
+It's true that the sort order wasn't changed, this is necessary to not change the concept of Reddit's upvote system too much. It's a good compromise in my opinion, especially for discussion based subreddits like CMV.
+
+","To some extent, our opinions and perspectives are affected by the impressions of others, or the group dynamic. If you think about it - we always read the comment score, when really why should we? Shouldn't the content of the comment be valid enough? Is it that important to see what other people think before thinking ourselves?
+
+For example: seeing a comment that reads 'wow that's great' with many down votes will subconsciously make us read it in a negative, sarcastic tone (or at least make us believe that was its intent). It takes just one person commenting on a comment: 'I don't know why your being downvoted' to sway people into sympathising a little with the original commenter - such is the power of social affirmation and mob mentality.
+
+Getting rid of the comment score does more good than harm - it's really irrelevant meta-information that gives us a sense that we're more informed, which is nice but not when it has an adverse effect on effective discussion."
+1dzqaz|c9vfrhd|c9vtifn,1dzqaz,0,c9vfrhd,c9vtifn,Strong R2,Strong R2,Weak R2,True,False,Strong R2,Strong R2,Strong R2,True,False,R2_only,R2_only,neither,False,0,0,0,1,"I believe that the new ""score hiding"" system is poorly done and only makes viewing comment threads more annoying. CMV","But to be honest.. I prefer that an upvoted comment gets to the top. I like this part of reddit compared to forums and what not where its usually the guy who posts first that gets to the top, which in most cases is like the first comments in youtube (pretty crap).
+
+I dont really have an opinion of the hiding vote scores. I can see both ways, it does stop the knee jerk voting, but it also kind of ruins the flow of reading comments (but thats just my opinion).","To some extent, our opinions and perspectives are affected by the impressions of others, or the group dynamic. If you think about it - we always read the comment score, when really why should we? Shouldn't the content of the comment be valid enough? Is it that important to see what other people think before thinking ourselves?
+
+For example: seeing a comment that reads 'wow that's great' with many down votes will subconsciously make us read it in a negative, sarcastic tone (or at least make us believe that was its intent). It takes just one person commenting on a comment: 'I don't know why your being downvoted' to sway people into sympathising a little with the original commenter - such is the power of social affirmation and mob mentality.
+
+Getting rid of the comment score does more good than harm - it's really irrelevant meta-information that gives us a sense that we're more informed, which is nice but not when it has an adverse effect on effective discussion."
+1dzqaz|c9ves68|c9vp47c,1dzqaz,0,c9ves68,c9vp47c,Strong R1,Strong R1,Strong R1,True,False,Strong R1,Strong R1,Strong R1,True,False,R1_only,R1_only,neither,False,0,0,0,1,"I believe that the new ""score hiding"" system is poorly done and only makes viewing comment threads more annoying. CMV","The score hiding may not effect the order with which the comments are displayed over all but in threads, which are really the purpose of this sub-reddit as they denote discussion, it is actually incredibly useful in ensuring people remain unbiased. Far too often around reddit I see 'performance debates' where one speaker accumulates a great amount of upvotes and the other a great amount of downvotes. This causes people to gloss over the latter and simply read the first as they believe it to be the 'good' one. As we want people to read both sides of the argument and decide for themselves before giving upvotes I believe the Score Hiding system is actually very useful.","The only reason its annoying to you is because you cant see the score. The major reason for the score hiding was to prevent those ""hiliarious"" comment chains that clog up threads."
+1dzqaz|c9vevvr|c9vp47c,1dzqaz,0,c9vevvr,c9vp47c,Strong R1,Strong R1,Strong R1,True,False,Strong R1,Strong R1,Strong R1,True,False,R1_only,R1_only,neither,False,0,0,0,1,"I believe that the new ""score hiding"" system is poorly done and only makes viewing comment threads more annoying. CMV","Often I find myself following the opinion of the mass. When I see a comment is controversial, I become especially critical to what is being said. And when I see a comment that has a very good upvote downvote ratio I rarely disagree, because I don't expect myself to.
+
+So I think it forces people to think more for themselves and not follow the hive mind.
+
+It's true that the sort order wasn't changed, this is necessary to not change the concept of Reddit's upvote system too much. It's a good compromise in my opinion, especially for discussion based subreddits like CMV.
+
+","The only reason its annoying to you is because you cant see the score. The major reason for the score hiding was to prevent those ""hiliarious"" comment chains that clog up threads."
+1dzqaz|c9vjly7|c9vtifn,1dzqaz,0,c9vjly7,c9vtifn,Weak R1,Strong R1,Strong R1,True,False,Weak R2,Strong R2,Strong R1,False,True,both,both,both,True,1,1,0,1,"I believe that the new ""score hiding"" system is poorly done and only makes viewing comment threads more annoying. CMV",">No one looks at a comment and thinks, ""Wow, 2140 other people liked this, certainly it's worth another!""
+
+[They did a study](http://www.nytimes.com/2007/04/15/magazine/15wwlnidealab.t.html?_r=0)  regarding this as it relates to popular music.
+
+>Recently, my collaborators, Matthew Salganik and Peter Dodds, and I conducted just such a Web-based experiment. In our study, published last year in Science, more than 14,000 participants registered at our Web site, Music Lab (www.musiclab.columbia.edu), and were asked to listen to, rate and, if they chose, download songs by bands they had never heard of. **Some of the participants saw only the names of the songs and bands, while others also saw how many times the songs had been downloaded by previous participants.** This second group — in what we called the “social influence” condition — was further split into eight parallel “worlds” such that participants could see the prior downloads of people only in their own world. We didn’t manipulate any of these rankings — all the artists in all the worlds started out identically, with zero downloads — but because the different worlds were kept separate, they subsequently evolved independently of one another.
+
+>This setup let us test the possibility of prediction in two very direct ways. First, if people know what they like regardless of what they think other people like, the most successful songs should draw about the same amount of the total market share in both the independent and social-influence conditions — that is, hits shouldn’t be any bigger just because the people downloading them know what other people downloaded. And second, the very same songs — the “best” ones — should become hits in all social-influence worlds.
+
+>What we found, however, was exactly the opposite. **In all the social-influence worlds, the most popular songs were much more popular (and the least popular songs were less popular) than in the independent condition. At the same time, however, the particular songs that became hits were different in different worlds, just as cumulative-advantage theory would predict.** Introducing social influence into human decision making, in other words, didn’t just make the hits bigger; it also made them more unpredictable.
+
+This seems pretty analogous to the popularity of comments on reddit. ","To some extent, our opinions and perspectives are affected by the impressions of others, or the group dynamic. If you think about it - we always read the comment score, when really why should we? Shouldn't the content of the comment be valid enough? Is it that important to see what other people think before thinking ourselves?
+
+For example: seeing a comment that reads 'wow that's great' with many down votes will subconsciously make us read it in a negative, sarcastic tone (or at least make us believe that was its intent). It takes just one person commenting on a comment: 'I don't know why your being downvoted' to sway people into sympathising a little with the original commenter - such is the power of social affirmation and mob mentality.
+
+Getting rid of the comment score does more good than harm - it's really irrelevant meta-information that gives us a sense that we're more informed, which is nice but not when it has an adverse effect on effective discussion."
+1dzqaz|c9vevvr|c9vfrhd,1dzqaz,0,c9vevvr,c9vfrhd,Strong R1,Strong R1,Weak R1,True,False,Strong R1,Strong R1,Strong R1,True,False,R1_only,R1_only,neither,False,0,0,0,1,"I believe that the new ""score hiding"" system is poorly done and only makes viewing comment threads more annoying. CMV","Often I find myself following the opinion of the mass. When I see a comment is controversial, I become especially critical to what is being said. And when I see a comment that has a very good upvote downvote ratio I rarely disagree, because I don't expect myself to.
+
+So I think it forces people to think more for themselves and not follow the hive mind.
+
+It's true that the sort order wasn't changed, this is necessary to not change the concept of Reddit's upvote system too much. It's a good compromise in my opinion, especially for discussion based subreddits like CMV.
+
+","But to be honest.. I prefer that an upvoted comment gets to the top. I like this part of reddit compared to forums and what not where its usually the guy who posts first that gets to the top, which in most cases is like the first comments in youtube (pretty crap).
+
+I dont really have an opinion of the hiding vote scores. I can see both ways, it does stop the knee jerk voting, but it also kind of ruins the flow of reading comments (but thats just my opinion)."
+1dzqaz|c9ves68|c9vfrhd,1dzqaz,0,c9ves68,c9vfrhd,Strong R1,Strong R1,Strong R1,True,False,Strong R1,Strong R1,Strong R1,True,False,R1_only,R1_only,neither,False,0,0,0,1,"I believe that the new ""score hiding"" system is poorly done and only makes viewing comment threads more annoying. CMV","The score hiding may not effect the order with which the comments are displayed over all but in threads, which are really the purpose of this sub-reddit as they denote discussion, it is actually incredibly useful in ensuring people remain unbiased. Far too often around reddit I see 'performance debates' where one speaker accumulates a great amount of upvotes and the other a great amount of downvotes. This causes people to gloss over the latter and simply read the first as they believe it to be the 'good' one. As we want people to read both sides of the argument and decide for themselves before giving upvotes I believe the Score Hiding system is actually very useful.","But to be honest.. I prefer that an upvoted comment gets to the top. I like this part of reddit compared to forums and what not where its usually the guy who posts first that gets to the top, which in most cases is like the first comments in youtube (pretty crap).
+
+I dont really have an opinion of the hiding vote scores. I can see both ways, it does stop the knee jerk voting, but it also kind of ruins the flow of reading comments (but thats just my opinion)."
+1dzqaz|c9vp47c|c9vtifn,1dzqaz,0,c9vp47c,c9vtifn,Strong R2,Strong R2,Strong R2,True,False,Strong R2,Strong R2,Strong R2,True,False,R2_only,R2_only,neither,False,0,0,0,1,"I believe that the new ""score hiding"" system is poorly done and only makes viewing comment threads more annoying. CMV","The only reason its annoying to you is because you cant see the score. The major reason for the score hiding was to prevent those ""hiliarious"" comment chains that clog up threads.","To some extent, our opinions and perspectives are affected by the impressions of others, or the group dynamic. If you think about it - we always read the comment score, when really why should we? Shouldn't the content of the comment be valid enough? Is it that important to see what other people think before thinking ourselves?
+
+For example: seeing a comment that reads 'wow that's great' with many down votes will subconsciously make us read it in a negative, sarcastic tone (or at least make us believe that was its intent). It takes just one person commenting on a comment: 'I don't know why your being downvoted' to sway people into sympathising a little with the original commenter - such is the power of social affirmation and mob mentality.
+
+Getting rid of the comment score does more good than harm - it's really irrelevant meta-information that gives us a sense that we're more informed, which is nice but not when it has an adverse effect on effective discussion."
+1dzqaz|c9vjly7|c9vp47c,1dzqaz,0,c9vjly7,c9vp47c,Strong R1,Strong R1,Strong R1,True,False,Strong R1,Strong R1,Strong R1,True,False,R1_only,R1_only,R1_only,True,0,0,0,0,"I believe that the new ""score hiding"" system is poorly done and only makes viewing comment threads more annoying. CMV",">No one looks at a comment and thinks, ""Wow, 2140 other people liked this, certainly it's worth another!""
+
+[They did a study](http://www.nytimes.com/2007/04/15/magazine/15wwlnidealab.t.html?_r=0)  regarding this as it relates to popular music.
+
+>Recently, my collaborators, Matthew Salganik and Peter Dodds, and I conducted just such a Web-based experiment. In our study, published last year in Science, more than 14,000 participants registered at our Web site, Music Lab (www.musiclab.columbia.edu), and were asked to listen to, rate and, if they chose, download songs by bands they had never heard of. **Some of the participants saw only the names of the songs and bands, while others also saw how many times the songs had been downloaded by previous participants.** This second group — in what we called the “social influence” condition — was further split into eight parallel “worlds” such that participants could see the prior downloads of people only in their own world. We didn’t manipulate any of these rankings — all the artists in all the worlds started out identically, with zero downloads — but because the different worlds were kept separate, they subsequently evolved independently of one another.
+
+>This setup let us test the possibility of prediction in two very direct ways. First, if people know what they like regardless of what they think other people like, the most successful songs should draw about the same amount of the total market share in both the independent and social-influence conditions — that is, hits shouldn’t be any bigger just because the people downloading them know what other people downloaded. And second, the very same songs — the “best” ones — should become hits in all social-influence worlds.
+
+>What we found, however, was exactly the opposite. **In all the social-influence worlds, the most popular songs were much more popular (and the least popular songs were less popular) than in the independent condition. At the same time, however, the particular songs that became hits were different in different worlds, just as cumulative-advantage theory would predict.** Introducing social influence into human decision making, in other words, didn’t just make the hits bigger; it also made them more unpredictable.
+
+This seems pretty analogous to the popularity of comments on reddit. ","The only reason its annoying to you is because you cant see the score. The major reason for the score hiding was to prevent those ""hiliarious"" comment chains that clog up threads."
+1dzqaz|c9vfrhd|c9vjly7,1dzqaz,0,c9vfrhd,c9vjly7,Strong R2,Strong R2,Strong R2,True,False,Weak R2,Strong R2,Strong R2,True,False,R2_only,R2_only,R2_only,True,0,0,0,0,"I believe that the new ""score hiding"" system is poorly done and only makes viewing comment threads more annoying. CMV","But to be honest.. I prefer that an upvoted comment gets to the top. I like this part of reddit compared to forums and what not where its usually the guy who posts first that gets to the top, which in most cases is like the first comments in youtube (pretty crap).
+
+I dont really have an opinion of the hiding vote scores. I can see both ways, it does stop the knee jerk voting, but it also kind of ruins the flow of reading comments (but thats just my opinion).",">No one looks at a comment and thinks, ""Wow, 2140 other people liked this, certainly it's worth another!""
+
+[They did a study](http://www.nytimes.com/2007/04/15/magazine/15wwlnidealab.t.html?_r=0)  regarding this as it relates to popular music.
+
+>Recently, my collaborators, Matthew Salganik and Peter Dodds, and I conducted just such a Web-based experiment. In our study, published last year in Science, more than 14,000 participants registered at our Web site, Music Lab (www.musiclab.columbia.edu), and were asked to listen to, rate and, if they chose, download songs by bands they had never heard of. **Some of the participants saw only the names of the songs and bands, while others also saw how many times the songs had been downloaded by previous participants.** This second group — in what we called the “social influence” condition — was further split into eight parallel “worlds” such that participants could see the prior downloads of people only in their own world. We didn’t manipulate any of these rankings — all the artists in all the worlds started out identically, with zero downloads — but because the different worlds were kept separate, they subsequently evolved independently of one another.
+
+>This setup let us test the possibility of prediction in two very direct ways. First, if people know what they like regardless of what they think other people like, the most successful songs should draw about the same amount of the total market share in both the independent and social-influence conditions — that is, hits shouldn’t be any bigger just because the people downloading them know what other people downloaded. And second, the very same songs — the “best” ones — should become hits in all social-influence worlds.
+
+>What we found, however, was exactly the opposite. **In all the social-influence worlds, the most popular songs were much more popular (and the least popular songs were less popular) than in the independent condition. At the same time, however, the particular songs that became hits were different in different worlds, just as cumulative-advantage theory would predict.** Introducing social influence into human decision making, in other words, didn’t just make the hits bigger; it also made them more unpredictable.
+
+This seems pretty analogous to the popularity of comments on reddit. "
+1gubei|canw050|canwwia,1gubei,1,canw050,canwwia,Strong R1,Weak R2,Weak R2,False,False,Strong R1,Weak R2,Weak R2,False,False,both,both,neither,False,0,0,0,3,I think the only currently available way to get rid of HIV/AIDs is to start quarantining people who have the disease. CMV.,"Your policy would encourage people to simply not get tested for HIV, so they don't get quarantined. Since HIV is asymptomatic but transmissible for years, this would almost certainly cause *more* spread, not less.",">People with AIDs could be entered into a database that people without AIDs could check prior to engaging in sexual relations or the sharing of needles
+
+Disregarding the other problems with your 'solution' it's fairly obvious you haven't thought this through. The groups of people who at a high risk of infection with HIV (for the sake of argument here, those who frequently 'get around' and drug addicts) are the exact same groups of people who are not going to think about checking a registry before engaging in whatever activity tickles their fancy. 
+
+Sure, quarantine would probably reduce transmissions rate minimally, but I doubt it would be anywhere near significant enough to impose such a discriminatory (and probably incredibly expensive) regime. "
+1gubei|canw050|cao7amj,1gubei,1,canw050,cao7amj,Strong R1,Strong R1,Weak R2,False,False,Weak R1,Strong R1,Weak R2,False,False,both,R1_only,neither,False,0,0,0,3,I think the only currently available way to get rid of HIV/AIDs is to start quarantining people who have the disease. CMV.,"Your policy would encourage people to simply not get tested for HIV, so they don't get quarantined. Since HIV is asymptomatic but transmissible for years, this would almost certainly cause *more* spread, not less.","We already (suggest) quarantines for people with AIDS: condoms. 
+
+People who aren't using condoms already are probably not going to check an on-line database before having sex."
+1gubei|canzwpl|cao0vy0,1gubei,1,canzwpl,cao0vy0,Weak R1,Weak R1,Strong R2,False,False,Weak R1,Weak R1,Strong R2,False,False,neither,R1_only,neither,False,0,0,0,3,I think the only currently available way to get rid of HIV/AIDs is to start quarantining people who have the disease. CMV.,"If you just take care of, that everyone who has aids take their pills, then the infectionrate  would go near zero, of course you cant, because not every person who has aids know it...","Having unprotected sex knowing you have HIV or AIDS is ""reckless endangerment"" or whatever you call it. It is punishable by law. At least in my country.
+
+BUT! This practice of law might be changed since HIV is no longer a death sentence. Actually with medication you can live a pretty normal life with HIV today. 
+
+It probably wont chance your view, but HIV really isn't that big of a deal anymore."
+1gubei|canzwpl|cao7amj,1gubei,1,canzwpl,cao7amj,Weak R1,Weak R1,Strong R2,False,False,Weak R2,Weak R1,Strong R2,False,False,R2_only,R1_only,neither,False,1,0,0,3,I think the only currently available way to get rid of HIV/AIDs is to start quarantining people who have the disease. CMV.,"If you just take care of, that everyone who has aids take their pills, then the infectionrate  would go near zero, of course you cant, because not every person who has aids know it...","We already (suggest) quarantines for people with AIDS: condoms. 
+
+People who aren't using condoms already are probably not going to check an on-line database before having sex."
+1gubei|cao0vy0|cao7amj,1gubei,1,cao0vy0,cao7amj,Weak R2,Weak R1,Weak R2,False,False,Weak R2,Weak R1,Weak R1,False,False,both,R1_only,neither,False,0,0,1,3,I think the only currently available way to get rid of HIV/AIDs is to start quarantining people who have the disease. CMV.,"Having unprotected sex knowing you have HIV or AIDS is ""reckless endangerment"" or whatever you call it. It is punishable by law. At least in my country.
+
+BUT! This practice of law might be changed since HIV is no longer a death sentence. Actually with medication you can live a pretty normal life with HIV today. 
+
+It probably wont chance your view, but HIV really isn't that big of a deal anymore.","We already (suggest) quarantines for people with AIDS: condoms. 
+
+People who aren't using condoms already are probably not going to check an on-line database before having sex."
+1gubei|canw050|cao0kka,1gubei,1,canw050,cao0kka,Weak R2,Strong R2,Strong R2,True,False,Weak R1,Strong R2,Weak R2,False,False,R2_only,both,R2_only,False,1,0,0,2,I think the only currently available way to get rid of HIV/AIDs is to start quarantining people who have the disease. CMV.,"Your policy would encourage people to simply not get tested for HIV, so they don't get quarantined. Since HIV is asymptomatic but transmissible for years, this would almost certainly cause *more* spread, not less.","We're very long past the point where number of people with HIV was low enough for such quarantine to work.
+
+Right now it would require mandatory testing of absolutely everyone at least once a year over the entire world, otherwise gaps in your quarantine are too big.
+
+And what would we do after we got universal test coverage? Logistics of quarantining tens of millions of people worldwide are very hard, even if you went full Hitler on it. (and single country solutions are completely unviable)
+
+On the other we are getting pretty damn good at dealing with HIV:
+
+* our drugs can stop mother-to-child transmission very reliably
+* we have procedures to avoid HIV infections in medical context
+* people no longer share needles much for drug abuse (different kinds of drugs are popular these days) 
+* most people understand to use condoms when having sex with strangers
+* HIV drugs don't cure it, but they both lower chance of transmission, and make it much less deadly 
+
+So even if we won't be able to cure a single person ever, we might be able to stop transmission of HIV completely someday.
+
+Notice that even countries which don't give a shit about human rights never seriously tried HIV quarantine. It's just technically not doable.
+
+(I'm assuming here you want at least mandatory testing of some kind, with voluntary testing only this isn't even serious)
+
+Here's a recent story: [UNAIDS reports a more than 50% drop in new HIV infections across 25 countries](http://www.unaids.org/en/resources/presscentre/pressreleaseandstatementarchive/2012/november/20121120prresults/)."
+1gubei|canw050|cao0vy0,1gubei,1,canw050,cao0vy0,Strong R1,Strong R1,Weak R1,True,False,Strong R1,Strong R1,Weak R1,True,False,both,R1_only,neither,False,0,0,0,1,I think the only currently available way to get rid of HIV/AIDs is to start quarantining people who have the disease. CMV.,"Your policy would encourage people to simply not get tested for HIV, so they don't get quarantined. Since HIV is asymptomatic but transmissible for years, this would almost certainly cause *more* spread, not less.","Having unprotected sex knowing you have HIV or AIDS is ""reckless endangerment"" or whatever you call it. It is punishable by law. At least in my country.
+
+BUT! This practice of law might be changed since HIV is no longer a death sentence. Actually with medication you can live a pretty normal life with HIV today. 
+
+It probably wont chance your view, but HIV really isn't that big of a deal anymore."
+1gubei|canwwia|cao0kka,1gubei,1,canwwia,cao0kka,Weak R2,Strong R2,Strong R2,True,False,Strong R2,Strong R2,Weak R2,True,False,R2_only,both,R2_only,False,0,0,0,1,I think the only currently available way to get rid of HIV/AIDs is to start quarantining people who have the disease. CMV.,">People with AIDs could be entered into a database that people without AIDs could check prior to engaging in sexual relations or the sharing of needles
+
+Disregarding the other problems with your 'solution' it's fairly obvious you haven't thought this through. The groups of people who at a high risk of infection with HIV (for the sake of argument here, those who frequently 'get around' and drug addicts) are the exact same groups of people who are not going to think about checking a registry before engaging in whatever activity tickles their fancy. 
+
+Sure, quarantine would probably reduce transmissions rate minimally, but I doubt it would be anywhere near significant enough to impose such a discriminatory (and probably incredibly expensive) regime. ","We're very long past the point where number of people with HIV was low enough for such quarantine to work.
+
+Right now it would require mandatory testing of absolutely everyone at least once a year over the entire world, otherwise gaps in your quarantine are too big.
+
+And what would we do after we got universal test coverage? Logistics of quarantining tens of millions of people worldwide are very hard, even if you went full Hitler on it. (and single country solutions are completely unviable)
+
+On the other we are getting pretty damn good at dealing with HIV:
+
+* our drugs can stop mother-to-child transmission very reliably
+* we have procedures to avoid HIV infections in medical context
+* people no longer share needles much for drug abuse (different kinds of drugs are popular these days) 
+* most people understand to use condoms when having sex with strangers
+* HIV drugs don't cure it, but they both lower chance of transmission, and make it much less deadly 
+
+So even if we won't be able to cure a single person ever, we might be able to stop transmission of HIV completely someday.
+
+Notice that even countries which don't give a shit about human rights never seriously tried HIV quarantine. It's just technically not doable.
+
+(I'm assuming here you want at least mandatory testing of some kind, with voluntary testing only this isn't even serious)
+
+Here's a recent story: [UNAIDS reports a more than 50% drop in new HIV infections across 25 countries](http://www.unaids.org/en/resources/presscentre/pressreleaseandstatementarchive/2012/november/20121120prresults/)."
+1gubei|canwwia|cao0vy0,1gubei,1,canwwia,cao0vy0,Strong R1,Strong R1,Strong R1,True,False,Strong R1,Strong R1,Weak R1,True,False,neither,R1_only,neither,False,0,0,0,1,I think the only currently available way to get rid of HIV/AIDs is to start quarantining people who have the disease. CMV.,">People with AIDs could be entered into a database that people without AIDs could check prior to engaging in sexual relations or the sharing of needles
+
+Disregarding the other problems with your 'solution' it's fairly obvious you haven't thought this through. The groups of people who at a high risk of infection with HIV (for the sake of argument here, those who frequently 'get around' and drug addicts) are the exact same groups of people who are not going to think about checking a registry before engaging in whatever activity tickles their fancy. 
+
+Sure, quarantine would probably reduce transmissions rate minimally, but I doubt it would be anywhere near significant enough to impose such a discriminatory (and probably incredibly expensive) regime. ","Having unprotected sex knowing you have HIV or AIDS is ""reckless endangerment"" or whatever you call it. It is punishable by law. At least in my country.
+
+BUT! This practice of law might be changed since HIV is no longer a death sentence. Actually with medication you can live a pretty normal life with HIV today. 
+
+It probably wont chance your view, but HIV really isn't that big of a deal anymore."
+1gubei|canwwia|cao7amj,1gubei,1,canwwia,cao7amj,Weak R1,Strong R1,Strong R1,True,False,Weak R1,Strong R1,Strong R1,True,False,neither,R1_only,neither,False,0,0,0,1,I think the only currently available way to get rid of HIV/AIDs is to start quarantining people who have the disease. CMV.,">People with AIDs could be entered into a database that people without AIDs could check prior to engaging in sexual relations or the sharing of needles
+
+Disregarding the other problems with your 'solution' it's fairly obvious you haven't thought this through. The groups of people who at a high risk of infection with HIV (for the sake of argument here, those who frequently 'get around' and drug addicts) are the exact same groups of people who are not going to think about checking a registry before engaging in whatever activity tickles their fancy. 
+
+Sure, quarantine would probably reduce transmissions rate minimally, but I doubt it would be anywhere near significant enough to impose such a discriminatory (and probably incredibly expensive) regime. ","We already (suggest) quarantines for people with AIDS: condoms. 
+
+People who aren't using condoms already are probably not going to check an on-line database before having sex."
+1gubei|canw050|canzwpl,1gubei,1,canw050,canzwpl,Strong R1,Strong R1,Strong R1,True,False,Strong R1,Strong R1,Strong R1,True,False,neither,R1_only,neither,False,0,0,0,1,I think the only currently available way to get rid of HIV/AIDs is to start quarantining people who have the disease. CMV.,"Your policy would encourage people to simply not get tested for HIV, so they don't get quarantined. Since HIV is asymptomatic but transmissible for years, this would almost certainly cause *more* spread, not less.","If you just take care of, that everyone who has aids take their pills, then the infectionrate  would go near zero, of course you cant, because not every person who has aids know it..."
+1gubei|canwwia|canzwpl,1gubei,1,canwwia,canzwpl,Strong R1,Strong R1,Strong R1,True,False,Strong R1,Strong R1,Strong R1,True,False,neither,R1_only,neither,False,0,0,0,1,I think the only currently available way to get rid of HIV/AIDs is to start quarantining people who have the disease. CMV.,">People with AIDs could be entered into a database that people without AIDs could check prior to engaging in sexual relations or the sharing of needles
+
+Disregarding the other problems with your 'solution' it's fairly obvious you haven't thought this through. The groups of people who at a high risk of infection with HIV (for the sake of argument here, those who frequently 'get around' and drug addicts) are the exact same groups of people who are not going to think about checking a registry before engaging in whatever activity tickles their fancy. 
+
+Sure, quarantine would probably reduce transmissions rate minimally, but I doubt it would be anywhere near significant enough to impose such a discriminatory (and probably incredibly expensive) regime. ","If you just take care of, that everyone who has aids take their pills, then the infectionrate  would go near zero, of course you cant, because not every person who has aids know it..."
+1gubei|cao0kka|cao0vy0,1gubei,1,cao0kka,cao0vy0,Strong R1,Strong R1,Strong R1,True,False,Strong R1,Strong R1,Strong R1,True,False,both,R1_only,R1_only,False,0,0,0,1,I think the only currently available way to get rid of HIV/AIDs is to start quarantining people who have the disease. CMV.,"We're very long past the point where number of people with HIV was low enough for such quarantine to work.
+
+Right now it would require mandatory testing of absolutely everyone at least once a year over the entire world, otherwise gaps in your quarantine are too big.
+
+And what would we do after we got universal test coverage? Logistics of quarantining tens of millions of people worldwide are very hard, even if you went full Hitler on it. (and single country solutions are completely unviable)
+
+On the other we are getting pretty damn good at dealing with HIV:
+
+* our drugs can stop mother-to-child transmission very reliably
+* we have procedures to avoid HIV infections in medical context
+* people no longer share needles much for drug abuse (different kinds of drugs are popular these days) 
+* most people understand to use condoms when having sex with strangers
+* HIV drugs don't cure it, but they both lower chance of transmission, and make it much less deadly 
+
+So even if we won't be able to cure a single person ever, we might be able to stop transmission of HIV completely someday.
+
+Notice that even countries which don't give a shit about human rights never seriously tried HIV quarantine. It's just technically not doable.
+
+(I'm assuming here you want at least mandatory testing of some kind, with voluntary testing only this isn't even serious)
+
+Here's a recent story: [UNAIDS reports a more than 50% drop in new HIV infections across 25 countries](http://www.unaids.org/en/resources/presscentre/pressreleaseandstatementarchive/2012/november/20121120prresults/).","Having unprotected sex knowing you have HIV or AIDS is ""reckless endangerment"" or whatever you call it. It is punishable by law. At least in my country.
+
+BUT! This practice of law might be changed since HIV is no longer a death sentence. Actually with medication you can live a pretty normal life with HIV today. 
+
+It probably wont chance your view, but HIV really isn't that big of a deal anymore."
+1gubei|cao0kka|cao7amj,1gubei,1,cao0kka,cao7amj,Strong R1,Strong R1,Strong R1,True,False,Weak R1,Strong R1,Weak R1,True,False,R1_only,R1_only,R1_only,True,0,0,0,0,I think the only currently available way to get rid of HIV/AIDs is to start quarantining people who have the disease. CMV.,"We're very long past the point where number of people with HIV was low enough for such quarantine to work.
+
+Right now it would require mandatory testing of absolutely everyone at least once a year over the entire world, otherwise gaps in your quarantine are too big.
+
+And what would we do after we got universal test coverage? Logistics of quarantining tens of millions of people worldwide are very hard, even if you went full Hitler on it. (and single country solutions are completely unviable)
+
+On the other we are getting pretty damn good at dealing with HIV:
+
+* our drugs can stop mother-to-child transmission very reliably
+* we have procedures to avoid HIV infections in medical context
+* people no longer share needles much for drug abuse (different kinds of drugs are popular these days) 
+* most people understand to use condoms when having sex with strangers
+* HIV drugs don't cure it, but they both lower chance of transmission, and make it much less deadly 
+
+So even if we won't be able to cure a single person ever, we might be able to stop transmission of HIV completely someday.
+
+Notice that even countries which don't give a shit about human rights never seriously tried HIV quarantine. It's just technically not doable.
+
+(I'm assuming here you want at least mandatory testing of some kind, with voluntary testing only this isn't even serious)
+
+Here's a recent story: [UNAIDS reports a more than 50% drop in new HIV infections across 25 countries](http://www.unaids.org/en/resources/presscentre/pressreleaseandstatementarchive/2012/november/20121120prresults/).","We already (suggest) quarantines for people with AIDS: condoms. 
+
+People who aren't using condoms already are probably not going to check an on-line database before having sex."
+1gubei|canzwpl|cao0kka,1gubei,1,canzwpl,cao0kka,Strong R2,Strong R2,Strong R2,True,False,Weak R2,Strong R2,Strong R2,True,False,R2_only,R2_only,R2_only,True,0,0,0,0,I think the only currently available way to get rid of HIV/AIDs is to start quarantining people who have the disease. CMV.,"If you just take care of, that everyone who has aids take their pills, then the infectionrate  would go near zero, of course you cant, because not every person who has aids know it...","We're very long past the point where number of people with HIV was low enough for such quarantine to work.
+
+Right now it would require mandatory testing of absolutely everyone at least once a year over the entire world, otherwise gaps in your quarantine are too big.
+
+And what would we do after we got universal test coverage? Logistics of quarantining tens of millions of people worldwide are very hard, even if you went full Hitler on it. (and single country solutions are completely unviable)
+
+On the other we are getting pretty damn good at dealing with HIV:
+
+* our drugs can stop mother-to-child transmission very reliably
+* we have procedures to avoid HIV infections in medical context
+* people no longer share needles much for drug abuse (different kinds of drugs are popular these days) 
+* most people understand to use condoms when having sex with strangers
+* HIV drugs don't cure it, but they both lower chance of transmission, and make it much less deadly 
+
+So even if we won't be able to cure a single person ever, we might be able to stop transmission of HIV completely someday.
+
+Notice that even countries which don't give a shit about human rights never seriously tried HIV quarantine. It's just technically not doable.
+
+(I'm assuming here you want at least mandatory testing of some kind, with voluntary testing only this isn't even serious)
+
+Here's a recent story: [UNAIDS reports a more than 50% drop in new HIV infections across 25 countries](http://www.unaids.org/en/resources/presscentre/pressreleaseandstatementarchive/2012/november/20121120prresults/)."
+1h0f8t|capvfhx|capxcwy,1h0f8t,2,capvfhx,capxcwy,Weak R1,Weak R1,Weak R2,False,False,Weak R1,Weak R1,Weak R2,False,False,R1_only,R1_only,neither,False,0,0,0,3,I believe that those with extreme mental and physical disabilities are detrimental to society and should not be assisted. CMV.,"> I believe that those with extreme mental and physical disabilities are detrimental to society and should not be *given the same status as functioning citizens.*
+
+FTFY. There's a quote I don't want to search for about the measure of a society being how well off its worst citizens are. From that perspective, it only makes our society better to assist those who have deficiencies. However, we should not kid ourselves into giving them the same status. In a society where people are over-diagnosed with disabilities, you'd be stupid not to claim a disability if it did not affect your status. ",Without at least some assistance they will die. The could easily viewed in a poor light.
+1h0f8t|capog0a|capoy26,1h0f8t,2,capog0a,capoy26,Strong R1,Strong R2,Weak R1,False,True,Strong R2,Strong R2,Strong R1,False,True,R1_only,both,neither,False,1,0,0,3,I believe that those with extreme mental and physical disabilities are detrimental to society and should not be assisted. CMV.,"What does ""should not be assisted"" mean?  If i have a child with the kind of disabilities that you're talking about and I love and nurture them, am I immoral because my efforts could have been more productive elsewhere?",Stephen fucking Hawking.
+1h0f8t|capoy26|capvfhx,1h0f8t,2,capoy26,capvfhx,Strong R2,Strong R1,Weak R2,False,True,Strong R1,Strong R1,Weak R2,False,False,both,R1_only,neither,False,1,0,0,3,I believe that those with extreme mental and physical disabilities are detrimental to society and should not be assisted. CMV.,Stephen fucking Hawking.,"> I believe that those with extreme mental and physical disabilities are detrimental to society and should not be *given the same status as functioning citizens.*
+
+FTFY. There's a quote I don't want to search for about the measure of a society being how well off its worst citizens are. From that perspective, it only makes our society better to assist those who have deficiencies. However, we should not kid ourselves into giving them the same status. In a society where people are over-diagnosed with disabilities, you'd be stupid not to claim a disability if it did not affect your status. "
+1h0f8t|capoy26|capxcwy,1h0f8t,2,capoy26,capxcwy,Weak R1,Strong R1,Strong R2,False,True,Strong R1,Strong R1,Strong R2,False,True,R1_only,R1_only,neither,False,0,0,0,3,I believe that those with extreme mental and physical disabilities are detrimental to society and should not be assisted. CMV.,Stephen fucking Hawking.,Without at least some assistance they will die. The could easily viewed in a poor light.
+1h0f8t|capliug|capog0a,1h0f8t,2,capliug,capog0a,Strong R1,Weak R1,Weak R2,False,False,Strong R1,Strong R2,Weak R2,False,True,R1_only,both,neither,False,0,1,0,3,I believe that those with extreme mental and physical disabilities are detrimental to society and should not be assisted. CMV.,">Forgive me for being somewhat unsympathetic, but isn't that what natural selection is for?
+
+Natural selection isn't ""for"" anything. Natural selection says that genes which are more fit in an environment will tend to become more common over time, and genes that are less fit will tend to become less common or extinct. Whatever assistance society gives to people with disabilities is part of the environment. 
+
+In any case, the effects of natural selection and what is morally right or wrong are unrelated. ","What does ""should not be assisted"" mean?  If i have a child with the kind of disabilities that you're talking about and I love and nurture them, am I immoral because my efforts could have been more productive elsewhere?"
+1h0f8t|capliug|capoy26,1h0f8t,2,capliug,capoy26,Strong R1,Strong R2,Strong R1,False,True,Weak R1,Strong R2,Strong R1,False,True,both,both,neither,False,0,0,0,3,I believe that those with extreme mental and physical disabilities are detrimental to society and should not be assisted. CMV.,">Forgive me for being somewhat unsympathetic, but isn't that what natural selection is for?
+
+Natural selection isn't ""for"" anything. Natural selection says that genes which are more fit in an environment will tend to become more common over time, and genes that are less fit will tend to become less common or extinct. Whatever assistance society gives to people with disabilities is part of the environment. 
+
+In any case, the effects of natural selection and what is morally right or wrong are unrelated. ",Stephen fucking Hawking.
+1h0f8t|capog0a|capxcwy,1h0f8t,2,capog0a,capxcwy,Weak R2,Strong R1,Weak R1,False,False,Strong R2,Strong R1,Strong R1,False,True,R1_only,R1_only,neither,False,0,0,0,3,I believe that those with extreme mental and physical disabilities are detrimental to society and should not be assisted. CMV.,"What does ""should not be assisted"" mean?  If i have a child with the kind of disabilities that you're talking about and I love and nurture them, am I immoral because my efforts could have been more productive elsewhere?",Without at least some assistance they will die. The could easily viewed in a poor light.
+1h0f8t|capog0a|capvfhx,1h0f8t,2,capog0a,capvfhx,Strong R2,Strong R1,Weak R1,False,True,Strong R2,Strong R1,Weak R1,False,True,R2_only,R1_only,neither,False,0,0,0,3,I believe that those with extreme mental and physical disabilities are detrimental to society and should not be assisted. CMV.,"What does ""should not be assisted"" mean?  If i have a child with the kind of disabilities that you're talking about and I love and nurture them, am I immoral because my efforts could have been more productive elsewhere?","> I believe that those with extreme mental and physical disabilities are detrimental to society and should not be *given the same status as functioning citizens.*
+
+FTFY. There's a quote I don't want to search for about the measure of a society being how well off its worst citizens are. From that perspective, it only makes our society better to assist those who have deficiencies. However, we should not kid ourselves into giving them the same status. In a society where people are over-diagnosed with disabilities, you'd be stupid not to claim a disability if it did not affect your status. "
+1h0f8t|capliug|capxcwy,1h0f8t,2,capliug,capxcwy,Strong R1,Strong R1,Strong R1,True,False,Strong R1,Weak R1,Weak R2,False,False,R1_only,R1_only,neither,False,0,0,1,2,I believe that those with extreme mental and physical disabilities are detrimental to society and should not be assisted. CMV.,">Forgive me for being somewhat unsympathetic, but isn't that what natural selection is for?
+
+Natural selection isn't ""for"" anything. Natural selection says that genes which are more fit in an environment will tend to become more common over time, and genes that are less fit will tend to become less common or extinct. Whatever assistance society gives to people with disabilities is part of the environment. 
+
+In any case, the effects of natural selection and what is morally right or wrong are unrelated. ",Without at least some assistance they will die. The could easily viewed in a poor light.
+1h0f8t|capliug|capm0or,1h0f8t,2,capliug,capm0or,Weak R2,Strong R2,Strong R2,True,False,Weak R1,Strong R2,Strong R2,False,False,both,both,neither,False,1,0,0,2,I believe that those with extreme mental and physical disabilities are detrimental to society and should not be assisted. CMV.,">Forgive me for being somewhat unsympathetic, but isn't that what natural selection is for?
+
+Natural selection isn't ""for"" anything. Natural selection says that genes which are more fit in an environment will tend to become more common over time, and genes that are less fit will tend to become less common or extinct. Whatever assistance society gives to people with disabilities is part of the environment. 
+
+In any case, the effects of natural selection and what is morally right or wrong are unrelated. ","The matter of your judgement of ""worth"" aside, let's just focus on the practicality of what you are proposing; no federal, state or private assistance for those with severe mental handicaps. 
+
+First off, what would be the outcome of this? Since these people would presumably be unsupervised, wherefore would they go? What would they do? Well certainly they would still be a burden on the public as homeless. Also, since this is not a particularly easy lifestlyle, it could be argued that some will be abused and killed. This would add to the burden of law enforcement in both labor costs And equipment. Also, when some of the people with mental disability end up breaking laws, they might simply be set free because of mental incompetency. Maybe they would be sent to some type of institution normally, but since this would lead to some type of assistance upon release (think half-way house or related programs) they just end up on the streets again in the same circumstance that they were in previously.
+
+Also the burden on families of mentally disabled families can be quite substancial. In the workplace utopia you discribe, functional tax paying workers would be rendered ""useless"" by having to cut back or completely stop work activities assisting said person with mental disabilities.
+
+There are more examples I could get into, but the long and short is as follows. Providing services and related benefits to the mentally disabled minimizes any negative impact on society in general. In fact, services and benefits may arguably have a net positive impact on the economy and public-safety (and other things).
+
+But that being said, I personally believe that compassion and kindness to our fellow human beings is worth more that a positive tax cash-flow."
+1h0f8t|capm0or|capoy26,1h0f8t,2,capm0or,capoy26,Strong R1,Strong R1,Strong R1,True,False,Strong R1,Strong R1,Strong R1,True,False,both,both,neither,False,0,0,0,1,I believe that those with extreme mental and physical disabilities are detrimental to society and should not be assisted. CMV.,"The matter of your judgement of ""worth"" aside, let's just focus on the practicality of what you are proposing; no federal, state or private assistance for those with severe mental handicaps. 
+
+First off, what would be the outcome of this? Since these people would presumably be unsupervised, wherefore would they go? What would they do? Well certainly they would still be a burden on the public as homeless. Also, since this is not a particularly easy lifestlyle, it could be argued that some will be abused and killed. This would add to the burden of law enforcement in both labor costs And equipment. Also, when some of the people with mental disability end up breaking laws, they might simply be set free because of mental incompetency. Maybe they would be sent to some type of institution normally, but since this would lead to some type of assistance upon release (think half-way house or related programs) they just end up on the streets again in the same circumstance that they were in previously.
+
+Also the burden on families of mentally disabled families can be quite substancial. In the workplace utopia you discribe, functional tax paying workers would be rendered ""useless"" by having to cut back or completely stop work activities assisting said person with mental disabilities.
+
+There are more examples I could get into, but the long and short is as follows. Providing services and related benefits to the mentally disabled minimizes any negative impact on society in general. In fact, services and benefits may arguably have a net positive impact on the economy and public-safety (and other things).
+
+But that being said, I personally believe that compassion and kindness to our fellow human beings is worth more that a positive tax cash-flow.",Stephen fucking Hawking.
+1h0f8t|capm0or|capog0a,1h0f8t,2,capm0or,capog0a,Strong R1,Strong R1,Strong R1,True,False,Strong R1,Strong R1,Strong R1,True,False,R1_only,both,neither,False,0,0,0,1,I believe that those with extreme mental and physical disabilities are detrimental to society and should not be assisted. CMV.,"The matter of your judgement of ""worth"" aside, let's just focus on the practicality of what you are proposing; no federal, state or private assistance for those with severe mental handicaps. 
+
+First off, what would be the outcome of this? Since these people would presumably be unsupervised, wherefore would they go? What would they do? Well certainly they would still be a burden on the public as homeless. Also, since this is not a particularly easy lifestlyle, it could be argued that some will be abused and killed. This would add to the burden of law enforcement in both labor costs And equipment. Also, when some of the people with mental disability end up breaking laws, they might simply be set free because of mental incompetency. Maybe they would be sent to some type of institution normally, but since this would lead to some type of assistance upon release (think half-way house or related programs) they just end up on the streets again in the same circumstance that they were in previously.
+
+Also the burden on families of mentally disabled families can be quite substancial. In the workplace utopia you discribe, functional tax paying workers would be rendered ""useless"" by having to cut back or completely stop work activities assisting said person with mental disabilities.
+
+There are more examples I could get into, but the long and short is as follows. Providing services and related benefits to the mentally disabled minimizes any negative impact on society in general. In fact, services and benefits may arguably have a net positive impact on the economy and public-safety (and other things).
+
+But that being said, I personally believe that compassion and kindness to our fellow human beings is worth more that a positive tax cash-flow.","What does ""should not be assisted"" mean?  If i have a child with the kind of disabilities that you're talking about and I love and nurture them, am I immoral because my efforts could have been more productive elsewhere?"
+1h0f8t|capliug|capvfhx,1h0f8t,2,capliug,capvfhx,Strong R1,Strong R1,Strong R1,True,False,Weak R1,Weak R1,Weak R1,True,False,both,R1_only,neither,False,0,0,0,1,I believe that those with extreme mental and physical disabilities are detrimental to society and should not be assisted. CMV.,">Forgive me for being somewhat unsympathetic, but isn't that what natural selection is for?
+
+Natural selection isn't ""for"" anything. Natural selection says that genes which are more fit in an environment will tend to become more common over time, and genes that are less fit will tend to become less common or extinct. Whatever assistance society gives to people with disabilities is part of the environment. 
+
+In any case, the effects of natural selection and what is morally right or wrong are unrelated. ","> I believe that those with extreme mental and physical disabilities are detrimental to society and should not be *given the same status as functioning citizens.*
+
+FTFY. There's a quote I don't want to search for about the measure of a society being how well off its worst citizens are. From that perspective, it only makes our society better to assist those who have deficiencies. However, we should not kid ourselves into giving them the same status. In a society where people are over-diagnosed with disabilities, you'd be stupid not to claim a disability if it did not affect your status. "
+1h0f8t|capm0or|capvfhx,1h0f8t,2,capm0or,capvfhx,Strong R1,Strong R1,Strong R1,True,False,Weak R1,Strong R1,Strong R1,True,False,both,R1_only,neither,False,0,0,0,1,I believe that those with extreme mental and physical disabilities are detrimental to society and should not be assisted. CMV.,"The matter of your judgement of ""worth"" aside, let's just focus on the practicality of what you are proposing; no federal, state or private assistance for those with severe mental handicaps. 
+
+First off, what would be the outcome of this? Since these people would presumably be unsupervised, wherefore would they go? What would they do? Well certainly they would still be a burden on the public as homeless. Also, since this is not a particularly easy lifestlyle, it could be argued that some will be abused and killed. This would add to the burden of law enforcement in both labor costs And equipment. Also, when some of the people with mental disability end up breaking laws, they might simply be set free because of mental incompetency. Maybe they would be sent to some type of institution normally, but since this would lead to some type of assistance upon release (think half-way house or related programs) they just end up on the streets again in the same circumstance that they were in previously.
+
+Also the burden on families of mentally disabled families can be quite substancial. In the workplace utopia you discribe, functional tax paying workers would be rendered ""useless"" by having to cut back or completely stop work activities assisting said person with mental disabilities.
+
+There are more examples I could get into, but the long and short is as follows. Providing services and related benefits to the mentally disabled minimizes any negative impact on society in general. In fact, services and benefits may arguably have a net positive impact on the economy and public-safety (and other things).
+
+But that being said, I personally believe that compassion and kindness to our fellow human beings is worth more that a positive tax cash-flow.","> I believe that those with extreme mental and physical disabilities are detrimental to society and should not be *given the same status as functioning citizens.*
+
+FTFY. There's a quote I don't want to search for about the measure of a society being how well off its worst citizens are. From that perspective, it only makes our society better to assist those who have deficiencies. However, we should not kid ourselves into giving them the same status. In a society where people are over-diagnosed with disabilities, you'd be stupid not to claim a disability if it did not affect your status. "
+1h0f8t|capm0or|capxcwy,1h0f8t,2,capm0or,capxcwy,Strong R1,Strong R1,Strong R1,True,False,Strong R1,Strong R1,Strong R1,True,False,R1_only,R1_only,neither,False,0,0,0,1,I believe that those with extreme mental and physical disabilities are detrimental to society and should not be assisted. CMV.,"The matter of your judgement of ""worth"" aside, let's just focus on the practicality of what you are proposing; no federal, state or private assistance for those with severe mental handicaps. 
+
+First off, what would be the outcome of this? Since these people would presumably be unsupervised, wherefore would they go? What would they do? Well certainly they would still be a burden on the public as homeless. Also, since this is not a particularly easy lifestlyle, it could be argued that some will be abused and killed. This would add to the burden of law enforcement in both labor costs And equipment. Also, when some of the people with mental disability end up breaking laws, they might simply be set free because of mental incompetency. Maybe they would be sent to some type of institution normally, but since this would lead to some type of assistance upon release (think half-way house or related programs) they just end up on the streets again in the same circumstance that they were in previously.
+
+Also the burden on families of mentally disabled families can be quite substancial. In the workplace utopia you discribe, functional tax paying workers would be rendered ""useless"" by having to cut back or completely stop work activities assisting said person with mental disabilities.
+
+There are more examples I could get into, but the long and short is as follows. Providing services and related benefits to the mentally disabled minimizes any negative impact on society in general. In fact, services and benefits may arguably have a net positive impact on the economy and public-safety (and other things).
+
+But that being said, I personally believe that compassion and kindness to our fellow human beings is worth more that a positive tax cash-flow.",Without at least some assistance they will die. The could easily viewed in a poor light.
+1i2ubf|cb0p0vq|cb0wko3,1i2ubf,3,cb0p0vq,cb0wko3,Weak R1,Strong R1,Weak R2,False,False,Weak R2,Strong R1,Weak R1,False,False,R2_only,both,neither,False,1,0,1,3,"I believe too many people are going to college nowadays, and the idea that everyone should go to college is preposterous and bad for society, CMV","Yes, lousy (glorified high schools, as I call them) colleges may be handing out degrees left and right to unmotivated students, but its not like you'll have to compete with then in the job market. Right now, you have to have a degree to get many low paying jobs. That because not many people have degrees. College wasn't as important as it is now for the previous generations. So if everyone has a degree, businesses will be looking for higher educated people, such as yourself, to fill these jobs. If they aren't motivated, they're probably not going to get hired when theres you, a motivated, well educated individual, applying for the same thing. Yes, college is NOT for everyone, but its not like those who Dont belong are going to necessarily hurt your chances at a job. ","i got a 2.4 GPA in high school. i have a 3.5 GPA in college.
+
+i grew up."
+1i2ubf|cb0m4te|cb0z2wa,1i2ubf,3,cb0m4te,cb0z2wa,Weak R2,Strong R2,Weak R1,False,False,Weak R2,Strong R2,Weak R1,False,False,both,both,neither,False,0,0,0,3,"I believe too many people are going to college nowadays, and the idea that everyone should go to college is preposterous and bad for society, CMV","I have debated this over and over with my family. I attended an arts college in the UK, my younger brother did not, he chose to get a job and earn experience instead. The difference between us was that i had a goal in mind, i knew what i wanted to do for a living (not saying that is what ill end up doing, but it was the next logical step for me, to get a better education in my subject), my brother did not have said goal, so he just got a job in whatever (cafe work).
+
+The part where it gets tricky, is what will happen in the future. I'm of the opinion, that anybody without a college degree will be held back by their lack of qualifications in the future, as a higher level of education becomes the norm. It would be the case of an older person today, trying to get a job with no high school education, because when he was young, it wasn't seen as necessary, and was better to just jump into work and get the experience.
+
+As the population as a whole becomes more educated, those that don't keep up are going to get left behind at a later date.  Dont get me wrong, i'm not valuing a degree over the same about of experience in the field, but to bring you back to myself and my brother, he now has years of experience making coffee and would have to start again, at the bottom, for any career he might decide that he wants, if and when he decides about his future. I didn't have the experience, education or opportunity to get into the field i want to dedicate my life to, but with a mediocre arts degree, i'm in a position to do that now. if i want to get ahead of the game, ill do a masters, as no doubt, ill be saying the same thing as you in 30 or 40 years when everybody has a masters degree and i don't.
+
+TL;DR: Its the natural progression of things to get higher education standards every generation or so. Degrees become less valuable as more people get to the level above, not the same level.
+
+AAAAAND Breathe....","I honestly feel your sentiment but its a bevy of issues that lead to the conclusion that you really cannot deny people going to college simply because you think there are too many people going to college. 
+
+Equality in America is not about dumbing down others or holding others back so the underprivileged don't feel cheated, or forcing it. Equality in America is equality of opportunity.  That is policy 101 that its most fair that everyone gets a shitty education than a few getting a good education. 
+
+Colleges aren't shitty though for the most part. If you do your research right a public university can be as educational and as tough as a private one. They hold the same standards and will have just as passionate professors willing to educate. The college education of any type is *good*. Unless its the shittest community college in the area, the shit that kids pull in high school won't fly at the college, and they especially won't do the same when they are paying for it if they have any sense. 
+
+So whats the problem? The reality is that colleges don't suck, public high schools suck. For various reasons the education you should be getting high school you now get in college. Colleges practically re-educate kids because they don't trust the high school system. In this sense what we classically know as colleges, in terms of difficulty and quality, is now a graduate education.
+
+In this sense college never guarantees you a job. Colleges give you a education which open up more opportunities."
+1i2ubf|cb0wko3|cb0womr,1i2ubf,3,cb0wko3,cb0womr,Weak R1,Strong R2,Weak R2,False,False,Weak R1,Strong R2,Weak R1,False,False,R1_only,both,R1_only,False,0,0,1,3,"I believe too many people are going to college nowadays, and the idea that everyone should go to college is preposterous and bad for society, CMV","i got a 2.4 GPA in high school. i have a 3.5 GPA in college.
+
+i grew up.","i also think that you need to take into consideration the poor state of our public school systems and how they detour students from enjoying education. also our economy is in need of more educated people, that is where the jobs are in our increasingly automated society."
+1i2ubf|cb0womr|cb10865,1i2ubf,3,cb0womr,cb10865,Strong R2,Strong R1,Weak R2,False,True,Strong R1,Weak R1,Weak R1,True,False,R2_only,both,R2_only,False,1,0,1,2,"I believe too many people are going to college nowadays, and the idea that everyone should go to college is preposterous and bad for society, CMV","i also think that you need to take into consideration the poor state of our public school systems and how they detour students from enjoying education. also our economy is in need of more educated people, that is where the jobs are in our increasingly automated society.","[John Green explains why you are wrong in under 4 minutes.](http://www.youtube.com/watch?v=t_N7MAr98CI)
+
+Also as a high school dropout that is currently studying engineering and has made the Dean's list every year you can kindly go fuck yourself. "
+1i2ubf|cb0p0vq|cb10865,1i2ubf,3,cb0p0vq,cb10865,Weak R1,Weak R2,Weak R1,False,False,Weak R1,Weak R1,Strong R1,True,False,both,both,R2_only,False,0,1,0,2,"I believe too many people are going to college nowadays, and the idea that everyone should go to college is preposterous and bad for society, CMV","Yes, lousy (glorified high schools, as I call them) colleges may be handing out degrees left and right to unmotivated students, but its not like you'll have to compete with then in the job market. Right now, you have to have a degree to get many low paying jobs. That because not many people have degrees. College wasn't as important as it is now for the previous generations. So if everyone has a degree, businesses will be looking for higher educated people, such as yourself, to fill these jobs. If they aren't motivated, they're probably not going to get hired when theres you, a motivated, well educated individual, applying for the same thing. Yes, college is NOT for everyone, but its not like those who Dont belong are going to necessarily hurt your chances at a job. ","[John Green explains why you are wrong in under 4 minutes.](http://www.youtube.com/watch?v=t_N7MAr98CI)
+
+Also as a high school dropout that is currently studying engineering and has made the Dean's list every year you can kindly go fuck yourself. "
+1i2ubf|cb0z2wa|cb10865,1i2ubf,3,cb0z2wa,cb10865,Strong R1,Strong R1,Strong R1,True,False,Strong R1,Strong R1,Strong R1,True,False,both,both,R2_only,False,0,0,0,1,"I believe too many people are going to college nowadays, and the idea that everyone should go to college is preposterous and bad for society, CMV","I honestly feel your sentiment but its a bevy of issues that lead to the conclusion that you really cannot deny people going to college simply because you think there are too many people going to college. 
+
+Equality in America is not about dumbing down others or holding others back so the underprivileged don't feel cheated, or forcing it. Equality in America is equality of opportunity.  That is policy 101 that its most fair that everyone gets a shitty education than a few getting a good education. 
+
+Colleges aren't shitty though for the most part. If you do your research right a public university can be as educational and as tough as a private one. They hold the same standards and will have just as passionate professors willing to educate. The college education of any type is *good*. Unless its the shittest community college in the area, the shit that kids pull in high school won't fly at the college, and they especially won't do the same when they are paying for it if they have any sense. 
+
+So whats the problem? The reality is that colleges don't suck, public high schools suck. For various reasons the education you should be getting high school you now get in college. Colleges practically re-educate kids because they don't trust the high school system. In this sense what we classically know as colleges, in terms of difficulty and quality, is now a graduate education.
+
+In this sense college never guarantees you a job. Colleges give you a education which open up more opportunities.","[John Green explains why you are wrong in under 4 minutes.](http://www.youtube.com/watch?v=t_N7MAr98CI)
+
+Also as a high school dropout that is currently studying engineering and has made the Dean's list every year you can kindly go fuck yourself. "
+1i2ubf|cb0m4te|cb0womr,1i2ubf,3,cb0m4te,cb0womr,Strong R1,Strong R1,Strong R1,True,False,Strong R1,Strong R1,Strong R1,True,False,R1_only,both,neither,False,0,0,0,1,"I believe too many people are going to college nowadays, and the idea that everyone should go to college is preposterous and bad for society, CMV","I have debated this over and over with my family. I attended an arts college in the UK, my younger brother did not, he chose to get a job and earn experience instead. The difference between us was that i had a goal in mind, i knew what i wanted to do for a living (not saying that is what ill end up doing, but it was the next logical step for me, to get a better education in my subject), my brother did not have said goal, so he just got a job in whatever (cafe work).
+
+The part where it gets tricky, is what will happen in the future. I'm of the opinion, that anybody without a college degree will be held back by their lack of qualifications in the future, as a higher level of education becomes the norm. It would be the case of an older person today, trying to get a job with no high school education, because when he was young, it wasn't seen as necessary, and was better to just jump into work and get the experience.
+
+As the population as a whole becomes more educated, those that don't keep up are going to get left behind at a later date.  Dont get me wrong, i'm not valuing a degree over the same about of experience in the field, but to bring you back to myself and my brother, he now has years of experience making coffee and would have to start again, at the bottom, for any career he might decide that he wants, if and when he decides about his future. I didn't have the experience, education or opportunity to get into the field i want to dedicate my life to, but with a mediocre arts degree, i'm in a position to do that now. if i want to get ahead of the game, ill do a masters, as no doubt, ill be saying the same thing as you in 30 or 40 years when everybody has a masters degree and i don't.
+
+TL;DR: Its the natural progression of things to get higher education standards every generation or so. Degrees become less valuable as more people get to the level above, not the same level.
+
+AAAAAND Breathe....","i also think that you need to take into consideration the poor state of our public school systems and how they detour students from enjoying education. also our economy is in need of more educated people, that is where the jobs are in our increasingly automated society."
+1i2ubf|cb0womr|cb0z2wa,1i2ubf,3,cb0womr,cb0z2wa,Strong R2,Strong R2,Weak R2,True,False,Strong R2,Strong R2,Strong R2,True,False,R2_only,both,neither,False,0,0,0,1,"I believe too many people are going to college nowadays, and the idea that everyone should go to college is preposterous and bad for society, CMV","i also think that you need to take into consideration the poor state of our public school systems and how they detour students from enjoying education. also our economy is in need of more educated people, that is where the jobs are in our increasingly automated society.","I honestly feel your sentiment but its a bevy of issues that lead to the conclusion that you really cannot deny people going to college simply because you think there are too many people going to college. 
+
+Equality in America is not about dumbing down others or holding others back so the underprivileged don't feel cheated, or forcing it. Equality in America is equality of opportunity.  That is policy 101 that its most fair that everyone gets a shitty education than a few getting a good education. 
+
+Colleges aren't shitty though for the most part. If you do your research right a public university can be as educational and as tough as a private one. They hold the same standards and will have just as passionate professors willing to educate. The college education of any type is *good*. Unless its the shittest community college in the area, the shit that kids pull in high school won't fly at the college, and they especially won't do the same when they are paying for it if they have any sense. 
+
+So whats the problem? The reality is that colleges don't suck, public high schools suck. For various reasons the education you should be getting high school you now get in college. Colleges practically re-educate kids because they don't trust the high school system. In this sense what we classically know as colleges, in terms of difficulty and quality, is now a graduate education.
+
+In this sense college never guarantees you a job. Colleges give you a education which open up more opportunities."
+1i2ubf|cb0m4te|cb10865,1i2ubf,3,cb0m4te,cb10865,Strong R1,Strong R1,Strong R1,True,False,Strong R1,Strong R1,Strong R1,True,False,both,both,R2_only,False,0,0,0,1,"I believe too many people are going to college nowadays, and the idea that everyone should go to college is preposterous and bad for society, CMV","I have debated this over and over with my family. I attended an arts college in the UK, my younger brother did not, he chose to get a job and earn experience instead. The difference between us was that i had a goal in mind, i knew what i wanted to do for a living (not saying that is what ill end up doing, but it was the next logical step for me, to get a better education in my subject), my brother did not have said goal, so he just got a job in whatever (cafe work).
+
+The part where it gets tricky, is what will happen in the future. I'm of the opinion, that anybody without a college degree will be held back by their lack of qualifications in the future, as a higher level of education becomes the norm. It would be the case of an older person today, trying to get a job with no high school education, because when he was young, it wasn't seen as necessary, and was better to just jump into work and get the experience.
+
+As the population as a whole becomes more educated, those that don't keep up are going to get left behind at a later date.  Dont get me wrong, i'm not valuing a degree over the same about of experience in the field, but to bring you back to myself and my brother, he now has years of experience making coffee and would have to start again, at the bottom, for any career he might decide that he wants, if and when he decides about his future. I didn't have the experience, education or opportunity to get into the field i want to dedicate my life to, but with a mediocre arts degree, i'm in a position to do that now. if i want to get ahead of the game, ill do a masters, as no doubt, ill be saying the same thing as you in 30 or 40 years when everybody has a masters degree and i don't.
+
+TL;DR: Its the natural progression of things to get higher education standards every generation or so. Degrees become less valuable as more people get to the level above, not the same level.
+
+AAAAAND Breathe....","[John Green explains why you are wrong in under 4 minutes.](http://www.youtube.com/watch?v=t_N7MAr98CI)
+
+Also as a high school dropout that is currently studying engineering and has made the Dean's list every year you can kindly go fuck yourself. "
+1i2ubf|cb0m4te|cb0p0vq,1i2ubf,3,cb0m4te,cb0p0vq,Weak R1,Strong R1,Strong R1,True,False,Weak R1,Strong R1,Strong R1,True,False,R1_only,both,neither,False,0,0,0,1,"I believe too many people are going to college nowadays, and the idea that everyone should go to college is preposterous and bad for society, CMV","I have debated this over and over with my family. I attended an arts college in the UK, my younger brother did not, he chose to get a job and earn experience instead. The difference between us was that i had a goal in mind, i knew what i wanted to do for a living (not saying that is what ill end up doing, but it was the next logical step for me, to get a better education in my subject), my brother did not have said goal, so he just got a job in whatever (cafe work).
+
+The part where it gets tricky, is what will happen in the future. I'm of the opinion, that anybody without a college degree will be held back by their lack of qualifications in the future, as a higher level of education becomes the norm. It would be the case of an older person today, trying to get a job with no high school education, because when he was young, it wasn't seen as necessary, and was better to just jump into work and get the experience.
+
+As the population as a whole becomes more educated, those that don't keep up are going to get left behind at a later date.  Dont get me wrong, i'm not valuing a degree over the same about of experience in the field, but to bring you back to myself and my brother, he now has years of experience making coffee and would have to start again, at the bottom, for any career he might decide that he wants, if and when he decides about his future. I didn't have the experience, education or opportunity to get into the field i want to dedicate my life to, but with a mediocre arts degree, i'm in a position to do that now. if i want to get ahead of the game, ill do a masters, as no doubt, ill be saying the same thing as you in 30 or 40 years when everybody has a masters degree and i don't.
+
+TL;DR: Its the natural progression of things to get higher education standards every generation or so. Degrees become less valuable as more people get to the level above, not the same level.
+
+AAAAAND Breathe....","Yes, lousy (glorified high schools, as I call them) colleges may be handing out degrees left and right to unmotivated students, but its not like you'll have to compete with then in the job market. Right now, you have to have a degree to get many low paying jobs. That because not many people have degrees. College wasn't as important as it is now for the previous generations. So if everyone has a degree, businesses will be looking for higher educated people, such as yourself, to fill these jobs. If they aren't motivated, they're probably not going to get hired when theres you, a motivated, well educated individual, applying for the same thing. Yes, college is NOT for everyone, but its not like those who Dont belong are going to necessarily hurt your chances at a job. "
+1i2ubf|cb0m4te|cb0wko3,1i2ubf,3,cb0m4te,cb0wko3,Strong R1,Strong R1,Strong R1,True,False,Weak R1,Strong R1,Strong R1,True,False,both,both,neither,False,0,0,0,1,"I believe too many people are going to college nowadays, and the idea that everyone should go to college is preposterous and bad for society, CMV","I have debated this over and over with my family. I attended an arts college in the UK, my younger brother did not, he chose to get a job and earn experience instead. The difference between us was that i had a goal in mind, i knew what i wanted to do for a living (not saying that is what ill end up doing, but it was the next logical step for me, to get a better education in my subject), my brother did not have said goal, so he just got a job in whatever (cafe work).
+
+The part where it gets tricky, is what will happen in the future. I'm of the opinion, that anybody without a college degree will be held back by their lack of qualifications in the future, as a higher level of education becomes the norm. It would be the case of an older person today, trying to get a job with no high school education, because when he was young, it wasn't seen as necessary, and was better to just jump into work and get the experience.
+
+As the population as a whole becomes more educated, those that don't keep up are going to get left behind at a later date.  Dont get me wrong, i'm not valuing a degree over the same about of experience in the field, but to bring you back to myself and my brother, he now has years of experience making coffee and would have to start again, at the bottom, for any career he might decide that he wants, if and when he decides about his future. I didn't have the experience, education or opportunity to get into the field i want to dedicate my life to, but with a mediocre arts degree, i'm in a position to do that now. if i want to get ahead of the game, ill do a masters, as no doubt, ill be saying the same thing as you in 30 or 40 years when everybody has a masters degree and i don't.
+
+TL;DR: Its the natural progression of things to get higher education standards every generation or so. Degrees become less valuable as more people get to the level above, not the same level.
+
+AAAAAND Breathe....","i got a 2.4 GPA in high school. i have a 3.5 GPA in college.
+
+i grew up."
+1i2ubf|cb0p0vq|cb0womr,1i2ubf,3,cb0p0vq,cb0womr,Weak R1,Weak R1,Weak R1,True,False,Weak R1,Weak R1,Weak R1,True,False,neither,both,neither,False,0,0,0,1,"I believe too many people are going to college nowadays, and the idea that everyone should go to college is preposterous and bad for society, CMV","Yes, lousy (glorified high schools, as I call them) colleges may be handing out degrees left and right to unmotivated students, but its not like you'll have to compete with then in the job market. Right now, you have to have a degree to get many low paying jobs. That because not many people have degrees. College wasn't as important as it is now for the previous generations. So if everyone has a degree, businesses will be looking for higher educated people, such as yourself, to fill these jobs. If they aren't motivated, they're probably not going to get hired when theres you, a motivated, well educated individual, applying for the same thing. Yes, college is NOT for everyone, but its not like those who Dont belong are going to necessarily hurt your chances at a job. ","i also think that you need to take into consideration the poor state of our public school systems and how they detour students from enjoying education. also our economy is in need of more educated people, that is where the jobs are in our increasingly automated society."
+1i2ubf|cb0wko3|cb0z2wa,1i2ubf,3,cb0wko3,cb0z2wa,Strong R2,Strong R2,Strong R2,True,False,Weak R2,Strong R2,Strong R2,True,False,both,both,R1_only,False,0,0,0,1,"I believe too many people are going to college nowadays, and the idea that everyone should go to college is preposterous and bad for society, CMV","i got a 2.4 GPA in high school. i have a 3.5 GPA in college.
+
+i grew up.","I honestly feel your sentiment but its a bevy of issues that lead to the conclusion that you really cannot deny people going to college simply because you think there are too many people going to college. 
+
+Equality in America is not about dumbing down others or holding others back so the underprivileged don't feel cheated, or forcing it. Equality in America is equality of opportunity.  That is policy 101 that its most fair that everyone gets a shitty education than a few getting a good education. 
+
+Colleges aren't shitty though for the most part. If you do your research right a public university can be as educational and as tough as a private one. They hold the same standards and will have just as passionate professors willing to educate. The college education of any type is *good*. Unless its the shittest community college in the area, the shit that kids pull in high school won't fly at the college, and they especially won't do the same when they are paying for it if they have any sense. 
+
+So whats the problem? The reality is that colleges don't suck, public high schools suck. For various reasons the education you should be getting high school you now get in college. Colleges practically re-educate kids because they don't trust the high school system. In this sense what we classically know as colleges, in terms of difficulty and quality, is now a graduate education.
+
+In this sense college never guarantees you a job. Colleges give you a education which open up more opportunities."
+1i2ubf|cb0wko3|cb10865,1i2ubf,3,cb0wko3,cb10865,Weak R2,Weak R1,Weak R2,False,False,Weak R1,Weak R1,Strong R1,True,False,both,both,both,True,1,0,1,1,"I believe too many people are going to college nowadays, and the idea that everyone should go to college is preposterous and bad for society, CMV","i got a 2.4 GPA in high school. i have a 3.5 GPA in college.
+
+i grew up.","[John Green explains why you are wrong in under 4 minutes.](http://www.youtube.com/watch?v=t_N7MAr98CI)
+
+Also as a high school dropout that is currently studying engineering and has made the Dean's list every year you can kindly go fuck yourself. "
+1i2ubf|cb0p0vq|cb0z2wa,1i2ubf,3,cb0p0vq,cb0z2wa,Strong R2,Strong R2,Strong R2,True,False,Weak R2,Strong R2,Weak R2,True,False,R2_only,both,neither,False,0,0,0,1,"I believe too many people are going to college nowadays, and the idea that everyone should go to college is preposterous and bad for society, CMV","Yes, lousy (glorified high schools, as I call them) colleges may be handing out degrees left and right to unmotivated students, but its not like you'll have to compete with then in the job market. Right now, you have to have a degree to get many low paying jobs. That because not many people have degrees. College wasn't as important as it is now for the previous generations. So if everyone has a degree, businesses will be looking for higher educated people, such as yourself, to fill these jobs. If they aren't motivated, they're probably not going to get hired when theres you, a motivated, well educated individual, applying for the same thing. Yes, college is NOT for everyone, but its not like those who Dont belong are going to necessarily hurt your chances at a job. ","I honestly feel your sentiment but its a bevy of issues that lead to the conclusion that you really cannot deny people going to college simply because you think there are too many people going to college. 
+
+Equality in America is not about dumbing down others or holding others back so the underprivileged don't feel cheated, or forcing it. Equality in America is equality of opportunity.  That is policy 101 that its most fair that everyone gets a shitty education than a few getting a good education. 
+
+Colleges aren't shitty though for the most part. If you do your research right a public university can be as educational and as tough as a private one. They hold the same standards and will have just as passionate professors willing to educate. The college education of any type is *good*. Unless its the shittest community college in the area, the shit that kids pull in high school won't fly at the college, and they especially won't do the same when they are paying for it if they have any sense. 
+
+So whats the problem? The reality is that colleges don't suck, public high schools suck. For various reasons the education you should be getting high school you now get in college. Colleges practically re-educate kids because they don't trust the high school system. In this sense what we classically know as colleges, in terms of difficulty and quality, is now a graduate education.
+
+In this sense college never guarantees you a job. Colleges give you a education which open up more opportunities."
+1iqz14|cb7bsjl|cb7imjb,1iqz14,4,cb7bsjl,cb7imjb,Strong R2,Strong R1,Strong R2,False,True,Strong R2,Strong R1,Weak R2,False,True,both,R1_only,neither,False,0,0,0,3,"I believe that people who are offended by ""bad"" words are the people who give the words the power to be ""bad"" CMV",[relevant - louis ck](https://www.youtube.com/watch?v=1IFloXOuLgA),"It's no accident that swears have arisen in (almost) every human culture. If people stopped caring about using ""faggot"" and ""nigger"" other words phrases gestures or actions would arise to mean the same thing."
+1iqz14|cb773pk|cb7bsjl,1iqz14,4,cb773pk,cb7bsjl,Strong R1,Weak R2,Strong R1,False,False,Strong R1,Weak R2,Strong R1,False,False,both,R2_only,neither,False,0,0,0,3,"I believe that people who are offended by ""bad"" words are the people who give the words the power to be ""bad"" CMV","""Watch your thoughts; they become words. 
+
+Watch your words; they become actions. 
+
+Watch your actions; they become habit. 
+
+Watch your habits; they become character. 
+
+Watch your character; it becomes your destiny.” - Lao Tzu
+
+People aren't offended at the words. Every word you say is a representation of your character. People hear you say those words, and are offended by *you*. 
+
+",[relevant - louis ck](https://www.youtube.com/watch?v=1IFloXOuLgA)
+1iqz14|cb76z6q|cb7exw1,1iqz14,4,cb76z6q,cb7exw1,Strong R2,Strong R2,Weak R1,False,False,Strong R2,Strong R2,Weak R2,True,False,both,both,neither,False,0,0,1,2,"I believe that people who are offended by ""bad"" words are the people who give the words the power to be ""bad"" CMV","The words have objective power. People aren't as offended by them, as they can be completely fucked up by them.
+
+Let's say you were raped. Would anyone be surprised if aggressive flirting from a stranger, without warning, could set your adrenaline running wild? How about words like ""Slut?"" When you fought, as hard as you could, but nobody believes you because you invited him in? Is it okay if it triggers you, then?
+
+It's not just rape victims, of course. And it doesn't even need to be a word. Any car backfires, and suddenly it's a Delorean time machine, for many combat vets.
+
+This really isn't even doing PTSD justice. It feels like a literal heart attack, and mimics many of the symptoms of a psychotic break. It's a disease in every sense of the word, outside of public opinion.  
+
+You don't cure it by triggering it over and over again. Not when ""Nigger"" and ""Faggot"" can still be a threat in many parts of the country, the prelude to violence. 
+
+Taking back words doesn't work if the same people who used them to dehumanize you look and sound exactly like those who want to play with the word really bad just because it's forbidden. ","Have you seen this thread today: [What's the most insulting, cold blooded,insensitive thing you can say to someone?](http://www.reddit.com/r/AskReddit/comments/1ir21c/whats_the_most_insulting_cold_bloodedinsensitive/)
+
+For most of the insults provided in that thread, the commenter has to tell a story about why it hurt so much. Most of them rely on context for their power. You can't say, ""I settled for you,"" to anyone but an SO. ""Everyone hates you just as much as you hate yourself,"" only works for someone who has self-esteem issues. ""I hope your baby is born dead,"" obviously only works for a pregnant woman or expectant father. 
+
+When you're dealing with words like ""nigger,"" ""faggot,"" ""bitch,"" etc., you're dealing with words that have a lot of context for a lot of people. On some level, those of us who are offended by such words can reclaim them and recontextualize them so that they no longer cause us pain. But that is going to take time, effort, and creativity. To strip the words of their power, we have to write a new story for them. Words come to us with attached stories already written. All words have some baggage, because if they didn't have any meaning already associated with them before they get to us, they would just be sounds, not words. Some words have more baggage than others when they get to us. We have the power to accept, reject, or rewrite the stories associated with the words we receive, but this is no easy task.
+
+So if you find yourself gay or black or female in a community that uses ""faggot,"" ""nigger,"" or ""bitch"" in a negative way, and the community shows no signs of stopping, then perhaps you are right, and the best strategy to to spend the time, energy, and creativity necessary to strip these words of their power over you.
+
+But if you find yourself in a community of gay people, black people, and female people who feel stressed, self-conscious, upset, or angry when they hear certain words, don't you have some responsibility as a minimally decent human being to try and avoid using these words and to discourage others in the community from them using them too? I once read a relationship advice book that said, ""Push the right buttons."" The idea was that when you really get to know someone, you know their insecurities, their pet peeves, and their weaknesses. You can make their life a living hell if you want to, or you can encourage them, put them at ease, and surprise them with good things. Few people can hurt your family and friends as much as you can, and few people can make them feel as happy. 
+
+The stakes are much lower when you're interacting with strangers and acquaintances, but shouldn't the same general principle apply? Wouldn't a nice or decent person say things like, ""You look nice today,"" and ""I appreciate your hard work,"" and ""Hope you have a great weekend""? Doesn't the jerk who says things like, ""Here's a tip as small as your tits, bitch,"" and ""I bet your father is embarrassed to see you in those shoes, faggot,"" and ""Get your nappy old hair out of my face, nigger,"" bear some measure of responsibility for what he or she says? I think we can agree that a person who says such thing is ridiculous. But does this necessarily mean that people who are sensitive to the word ""bitch"" (or insecure about the size of their breasts) or the word ""faggot"" (or insecure about their relationships with their parents), or ""nigger"" (or insecure about their hair) is totally responsible for how they feel five seconds after the jerk says such things to them?
+
+If your friend tells you that his SO said, ""I settled for you,"" what do you say to your friend? Do you tell him to break up with his SO, get over her, and pay attention to the people in his life who understand how incredible he is so that her poisonous words no longer have any power over him? Perhaps, but do you say that right then, when he is in tears? Is your friend 100% responsible for his initial visceral reaction to those words, or is there ways in which is response to them (especially his initial response) is involuntary? "
+1iqz14|cb773pk|cb7imjb,1iqz14,4,cb773pk,cb7imjb,Weak R2,Weak R1,Weak R1,False,False,Weak R1,Weak R1,Strong R1,True,False,neither,R1_only,neither,False,1,0,0,2,"I believe that people who are offended by ""bad"" words are the people who give the words the power to be ""bad"" CMV","""Watch your thoughts; they become words. 
+
+Watch your words; they become actions. 
+
+Watch your actions; they become habit. 
+
+Watch your habits; they become character. 
+
+Watch your character; it becomes your destiny.” - Lao Tzu
+
+People aren't offended at the words. Every word you say is a representation of your character. People hear you say those words, and are offended by *you*. 
+
+","It's no accident that swears have arisen in (almost) every human culture. If people stopped caring about using ""faggot"" and ""nigger"" other words phrases gestures or actions would arise to mean the same thing."
+1iqz14|cb773pk|cb7894f,1iqz14,4,cb773pk,cb7894f,Strong R2,Strong R2,Weak R2,True,False,Weak R2,Strong R2,Strong R1,False,True,both,R2_only,neither,False,0,0,1,2,"I believe that people who are offended by ""bad"" words are the people who give the words the power to be ""bad"" CMV","""Watch your thoughts; they become words. 
+
+Watch your words; they become actions. 
+
+Watch your actions; they become habit. 
+
+Watch your habits; they become character. 
+
+Watch your character; it becomes your destiny.” - Lao Tzu
+
+People aren't offended at the words. Every word you say is a representation of your character. People hear you say those words, and are offended by *you*. 
+
+","You are not gay, you are not black. So of course the words nigger and faggot don't offend you.  They aren't words that were used while you were beat up and tormented.
+
+The word faggot reminds me that there are millions of people out there who want me dead. No matter what happens, that word will always give me that reminder. Period. You can't just magically erase my experiences.
+
+And btw, just because you have a friend/roommate that is gay, that doesn't give you any particular insight at all. Who cares? That doesn't bolster your argument one bit.  Yeah, not all gay people are offended by the word. That doesn't change anything.
+
+>I completely understand being offended when someone is spewing hate.
+
+Using the word faggot or nigger is spewing hate.  
+
+
+Here is an explanation in the form of comedy from Louis CK who previously had your stance, that all words are fair game in standup.  He made this [scene](https://www.youtube.com/watch?v=v-55wC5dEnc) in order to apologize to the gay population, because he has since changed his stance on the issue, and no longer uses the word faggot in his standup routine."
+1iqz14|cb76z6q|cb773pk,1iqz14,4,cb76z6q,cb773pk,Strong R1,Strong R1,Strong R1,True,False,Strong R1,Strong R1,Weak R1,True,False,both,R1_only,R2_only,False,0,0,0,1,"I believe that people who are offended by ""bad"" words are the people who give the words the power to be ""bad"" CMV","The words have objective power. People aren't as offended by them, as they can be completely fucked up by them.
+
+Let's say you were raped. Would anyone be surprised if aggressive flirting from a stranger, without warning, could set your adrenaline running wild? How about words like ""Slut?"" When you fought, as hard as you could, but nobody believes you because you invited him in? Is it okay if it triggers you, then?
+
+It's not just rape victims, of course. And it doesn't even need to be a word. Any car backfires, and suddenly it's a Delorean time machine, for many combat vets.
+
+This really isn't even doing PTSD justice. It feels like a literal heart attack, and mimics many of the symptoms of a psychotic break. It's a disease in every sense of the word, outside of public opinion.  
+
+You don't cure it by triggering it over and over again. Not when ""Nigger"" and ""Faggot"" can still be a threat in many parts of the country, the prelude to violence. 
+
+Taking back words doesn't work if the same people who used them to dehumanize you look and sound exactly like those who want to play with the word really bad just because it's forbidden. ","""Watch your thoughts; they become words. 
+
+Watch your words; they become actions. 
+
+Watch your actions; they become habit. 
+
+Watch your habits; they become character. 
+
+Watch your character; it becomes your destiny.” - Lao Tzu
+
+People aren't offended at the words. Every word you say is a representation of your character. People hear you say those words, and are offended by *you*. 
+
+"
+1iqz14|cb7894f|cb7bsjl,1iqz14,4,cb7894f,cb7bsjl,Strong R1,Strong R1,Strong R1,True,False,Strong R1,Strong R1,Strong R1,True,False,both,both,neither,False,0,0,0,1,"I believe that people who are offended by ""bad"" words are the people who give the words the power to be ""bad"" CMV","You are not gay, you are not black. So of course the words nigger and faggot don't offend you.  They aren't words that were used while you were beat up and tormented.
+
+The word faggot reminds me that there are millions of people out there who want me dead. No matter what happens, that word will always give me that reminder. Period. You can't just magically erase my experiences.
+
+And btw, just because you have a friend/roommate that is gay, that doesn't give you any particular insight at all. Who cares? That doesn't bolster your argument one bit.  Yeah, not all gay people are offended by the word. That doesn't change anything.
+
+>I completely understand being offended when someone is spewing hate.
+
+Using the word faggot or nigger is spewing hate.  
+
+
+Here is an explanation in the form of comedy from Louis CK who previously had your stance, that all words are fair game in standup.  He made this [scene](https://www.youtube.com/watch?v=v-55wC5dEnc) in order to apologize to the gay population, because he has since changed his stance on the issue, and no longer uses the word faggot in his standup routine.",[relevant - louis ck](https://www.youtube.com/watch?v=1IFloXOuLgA)
+1iqz14|cb76z6q|cb7bsjl,1iqz14,4,cb76z6q,cb7bsjl,Strong R1,Strong R1,Strong R1,True,False,Strong R1,Strong R1,Strong R1,True,False,both,both,neither,False,0,0,0,1,"I believe that people who are offended by ""bad"" words are the people who give the words the power to be ""bad"" CMV","The words have objective power. People aren't as offended by them, as they can be completely fucked up by them.
+
+Let's say you were raped. Would anyone be surprised if aggressive flirting from a stranger, without warning, could set your adrenaline running wild? How about words like ""Slut?"" When you fought, as hard as you could, but nobody believes you because you invited him in? Is it okay if it triggers you, then?
+
+It's not just rape victims, of course. And it doesn't even need to be a word. Any car backfires, and suddenly it's a Delorean time machine, for many combat vets.
+
+This really isn't even doing PTSD justice. It feels like a literal heart attack, and mimics many of the symptoms of a psychotic break. It's a disease in every sense of the word, outside of public opinion.  
+
+You don't cure it by triggering it over and over again. Not when ""Nigger"" and ""Faggot"" can still be a threat in many parts of the country, the prelude to violence. 
+
+Taking back words doesn't work if the same people who used them to dehumanize you look and sound exactly like those who want to play with the word really bad just because it's forbidden. ",[relevant - louis ck](https://www.youtube.com/watch?v=1IFloXOuLgA)
+1iqz14|cb7894f|cb7exw1,1iqz14,4,cb7894f,cb7exw1,Weak R2,Strong R2,Strong R2,True,False,Weak R2,Strong R2,Strong R2,True,False,both,both,neither,False,0,0,0,1,"I believe that people who are offended by ""bad"" words are the people who give the words the power to be ""bad"" CMV","You are not gay, you are not black. So of course the words nigger and faggot don't offend you.  They aren't words that were used while you were beat up and tormented.
+
+The word faggot reminds me that there are millions of people out there who want me dead. No matter what happens, that word will always give me that reminder. Period. You can't just magically erase my experiences.
+
+And btw, just because you have a friend/roommate that is gay, that doesn't give you any particular insight at all. Who cares? That doesn't bolster your argument one bit.  Yeah, not all gay people are offended by the word. That doesn't change anything.
+
+>I completely understand being offended when someone is spewing hate.
+
+Using the word faggot or nigger is spewing hate.  
+
+
+Here is an explanation in the form of comedy from Louis CK who previously had your stance, that all words are fair game in standup.  He made this [scene](https://www.youtube.com/watch?v=v-55wC5dEnc) in order to apologize to the gay population, because he has since changed his stance on the issue, and no longer uses the word faggot in his standup routine.","Have you seen this thread today: [What's the most insulting, cold blooded,insensitive thing you can say to someone?](http://www.reddit.com/r/AskReddit/comments/1ir21c/whats_the_most_insulting_cold_bloodedinsensitive/)
+
+For most of the insults provided in that thread, the commenter has to tell a story about why it hurt so much. Most of them rely on context for their power. You can't say, ""I settled for you,"" to anyone but an SO. ""Everyone hates you just as much as you hate yourself,"" only works for someone who has self-esteem issues. ""I hope your baby is born dead,"" obviously only works for a pregnant woman or expectant father. 
+
+When you're dealing with words like ""nigger,"" ""faggot,"" ""bitch,"" etc., you're dealing with words that have a lot of context for a lot of people. On some level, those of us who are offended by such words can reclaim them and recontextualize them so that they no longer cause us pain. But that is going to take time, effort, and creativity. To strip the words of their power, we have to write a new story for them. Words come to us with attached stories already written. All words have some baggage, because if they didn't have any meaning already associated with them before they get to us, they would just be sounds, not words. Some words have more baggage than others when they get to us. We have the power to accept, reject, or rewrite the stories associated with the words we receive, but this is no easy task.
+
+So if you find yourself gay or black or female in a community that uses ""faggot,"" ""nigger,"" or ""bitch"" in a negative way, and the community shows no signs of stopping, then perhaps you are right, and the best strategy to to spend the time, energy, and creativity necessary to strip these words of their power over you.
+
+But if you find yourself in a community of gay people, black people, and female people who feel stressed, self-conscious, upset, or angry when they hear certain words, don't you have some responsibility as a minimally decent human being to try and avoid using these words and to discourage others in the community from them using them too? I once read a relationship advice book that said, ""Push the right buttons."" The idea was that when you really get to know someone, you know their insecurities, their pet peeves, and their weaknesses. You can make their life a living hell if you want to, or you can encourage them, put them at ease, and surprise them with good things. Few people can hurt your family and friends as much as you can, and few people can make them feel as happy. 
+
+The stakes are much lower when you're interacting with strangers and acquaintances, but shouldn't the same general principle apply? Wouldn't a nice or decent person say things like, ""You look nice today,"" and ""I appreciate your hard work,"" and ""Hope you have a great weekend""? Doesn't the jerk who says things like, ""Here's a tip as small as your tits, bitch,"" and ""I bet your father is embarrassed to see you in those shoes, faggot,"" and ""Get your nappy old hair out of my face, nigger,"" bear some measure of responsibility for what he or she says? I think we can agree that a person who says such thing is ridiculous. But does this necessarily mean that people who are sensitive to the word ""bitch"" (or insecure about the size of their breasts) or the word ""faggot"" (or insecure about their relationships with their parents), or ""nigger"" (or insecure about their hair) is totally responsible for how they feel five seconds after the jerk says such things to them?
+
+If your friend tells you that his SO said, ""I settled for you,"" what do you say to your friend? Do you tell him to break up with his SO, get over her, and pay attention to the people in his life who understand how incredible he is so that her poisonous words no longer have any power over him? Perhaps, but do you say that right then, when he is in tears? Is your friend 100% responsible for his initial visceral reaction to those words, or is there ways in which is response to them (especially his initial response) is involuntary? "
+1iqz14|cb76z6q|cb7imjb,1iqz14,4,cb76z6q,cb7imjb,Strong R1,Strong R1,Strong R1,True,False,Strong R1,Strong R1,Strong R1,True,False,both,R1_only,neither,False,0,0,0,1,"I believe that people who are offended by ""bad"" words are the people who give the words the power to be ""bad"" CMV","The words have objective power. People aren't as offended by them, as they can be completely fucked up by them.
+
+Let's say you were raped. Would anyone be surprised if aggressive flirting from a stranger, without warning, could set your adrenaline running wild? How about words like ""Slut?"" When you fought, as hard as you could, but nobody believes you because you invited him in? Is it okay if it triggers you, then?
+
+It's not just rape victims, of course. And it doesn't even need to be a word. Any car backfires, and suddenly it's a Delorean time machine, for many combat vets.
+
+This really isn't even doing PTSD justice. It feels like a literal heart attack, and mimics many of the symptoms of a psychotic break. It's a disease in every sense of the word, outside of public opinion.  
+
+You don't cure it by triggering it over and over again. Not when ""Nigger"" and ""Faggot"" can still be a threat in many parts of the country, the prelude to violence. 
+
+Taking back words doesn't work if the same people who used them to dehumanize you look and sound exactly like those who want to play with the word really bad just because it's forbidden. ","It's no accident that swears have arisen in (almost) every human culture. If people stopped caring about using ""faggot"" and ""nigger"" other words phrases gestures or actions would arise to mean the same thing."
+1iqz14|cb773pk|cb7exw1,1iqz14,4,cb773pk,cb7exw1,Strong R2,Strong R2,Strong R2,True,False,Strong R2,Strong R2,Strong R2,True,False,both,R2_only,neither,False,0,0,0,1,"I believe that people who are offended by ""bad"" words are the people who give the words the power to be ""bad"" CMV","""Watch your thoughts; they become words. 
+
+Watch your words; they become actions. 
+
+Watch your actions; they become habit. 
+
+Watch your habits; they become character. 
+
+Watch your character; it becomes your destiny.” - Lao Tzu
+
+People aren't offended at the words. Every word you say is a representation of your character. People hear you say those words, and are offended by *you*. 
+
+","Have you seen this thread today: [What's the most insulting, cold blooded,insensitive thing you can say to someone?](http://www.reddit.com/r/AskReddit/comments/1ir21c/whats_the_most_insulting_cold_bloodedinsensitive/)
+
+For most of the insults provided in that thread, the commenter has to tell a story about why it hurt so much. Most of them rely on context for their power. You can't say, ""I settled for you,"" to anyone but an SO. ""Everyone hates you just as much as you hate yourself,"" only works for someone who has self-esteem issues. ""I hope your baby is born dead,"" obviously only works for a pregnant woman or expectant father. 
+
+When you're dealing with words like ""nigger,"" ""faggot,"" ""bitch,"" etc., you're dealing with words that have a lot of context for a lot of people. On some level, those of us who are offended by such words can reclaim them and recontextualize them so that they no longer cause us pain. But that is going to take time, effort, and creativity. To strip the words of their power, we have to write a new story for them. Words come to us with attached stories already written. All words have some baggage, because if they didn't have any meaning already associated with them before they get to us, they would just be sounds, not words. Some words have more baggage than others when they get to us. We have the power to accept, reject, or rewrite the stories associated with the words we receive, but this is no easy task.
+
+So if you find yourself gay or black or female in a community that uses ""faggot,"" ""nigger,"" or ""bitch"" in a negative way, and the community shows no signs of stopping, then perhaps you are right, and the best strategy to to spend the time, energy, and creativity necessary to strip these words of their power over you.
+
+But if you find yourself in a community of gay people, black people, and female people who feel stressed, self-conscious, upset, or angry when they hear certain words, don't you have some responsibility as a minimally decent human being to try and avoid using these words and to discourage others in the community from them using them too? I once read a relationship advice book that said, ""Push the right buttons."" The idea was that when you really get to know someone, you know their insecurities, their pet peeves, and their weaknesses. You can make their life a living hell if you want to, or you can encourage them, put them at ease, and surprise them with good things. Few people can hurt your family and friends as much as you can, and few people can make them feel as happy. 
+
+The stakes are much lower when you're interacting with strangers and acquaintances, but shouldn't the same general principle apply? Wouldn't a nice or decent person say things like, ""You look nice today,"" and ""I appreciate your hard work,"" and ""Hope you have a great weekend""? Doesn't the jerk who says things like, ""Here's a tip as small as your tits, bitch,"" and ""I bet your father is embarrassed to see you in those shoes, faggot,"" and ""Get your nappy old hair out of my face, nigger,"" bear some measure of responsibility for what he or she says? I think we can agree that a person who says such thing is ridiculous. But does this necessarily mean that people who are sensitive to the word ""bitch"" (or insecure about the size of their breasts) or the word ""faggot"" (or insecure about their relationships with their parents), or ""nigger"" (or insecure about their hair) is totally responsible for how they feel five seconds after the jerk says such things to them?
+
+If your friend tells you that his SO said, ""I settled for you,"" what do you say to your friend? Do you tell him to break up with his SO, get over her, and pay attention to the people in his life who understand how incredible he is so that her poisonous words no longer have any power over him? Perhaps, but do you say that right then, when he is in tears? Is your friend 100% responsible for his initial visceral reaction to those words, or is there ways in which is response to them (especially his initial response) is involuntary? "
+1iqz14|cb7bsjl|cb7exw1,1iqz14,4,cb7bsjl,cb7exw1,Strong R2,Strong R2,Strong R2,True,False,Strong R2,Strong R2,Strong R2,True,False,both,both,neither,False,0,0,0,1,"I believe that people who are offended by ""bad"" words are the people who give the words the power to be ""bad"" CMV",[relevant - louis ck](https://www.youtube.com/watch?v=1IFloXOuLgA),"Have you seen this thread today: [What's the most insulting, cold blooded,insensitive thing you can say to someone?](http://www.reddit.com/r/AskReddit/comments/1ir21c/whats_the_most_insulting_cold_bloodedinsensitive/)
+
+For most of the insults provided in that thread, the commenter has to tell a story about why it hurt so much. Most of them rely on context for their power. You can't say, ""I settled for you,"" to anyone but an SO. ""Everyone hates you just as much as you hate yourself,"" only works for someone who has self-esteem issues. ""I hope your baby is born dead,"" obviously only works for a pregnant woman or expectant father. 
+
+When you're dealing with words like ""nigger,"" ""faggot,"" ""bitch,"" etc., you're dealing with words that have a lot of context for a lot of people. On some level, those of us who are offended by such words can reclaim them and recontextualize them so that they no longer cause us pain. But that is going to take time, effort, and creativity. To strip the words of their power, we have to write a new story for them. Words come to us with attached stories already written. All words have some baggage, because if they didn't have any meaning already associated with them before they get to us, they would just be sounds, not words. Some words have more baggage than others when they get to us. We have the power to accept, reject, or rewrite the stories associated with the words we receive, but this is no easy task.
+
+So if you find yourself gay or black or female in a community that uses ""faggot,"" ""nigger,"" or ""bitch"" in a negative way, and the community shows no signs of stopping, then perhaps you are right, and the best strategy to to spend the time, energy, and creativity necessary to strip these words of their power over you.
+
+But if you find yourself in a community of gay people, black people, and female people who feel stressed, self-conscious, upset, or angry when they hear certain words, don't you have some responsibility as a minimally decent human being to try and avoid using these words and to discourage others in the community from them using them too? I once read a relationship advice book that said, ""Push the right buttons."" The idea was that when you really get to know someone, you know their insecurities, their pet peeves, and their weaknesses. You can make their life a living hell if you want to, or you can encourage them, put them at ease, and surprise them with good things. Few people can hurt your family and friends as much as you can, and few people can make them feel as happy. 
+
+The stakes are much lower when you're interacting with strangers and acquaintances, but shouldn't the same general principle apply? Wouldn't a nice or decent person say things like, ""You look nice today,"" and ""I appreciate your hard work,"" and ""Hope you have a great weekend""? Doesn't the jerk who says things like, ""Here's a tip as small as your tits, bitch,"" and ""I bet your father is embarrassed to see you in those shoes, faggot,"" and ""Get your nappy old hair out of my face, nigger,"" bear some measure of responsibility for what he or she says? I think we can agree that a person who says such thing is ridiculous. But does this necessarily mean that people who are sensitive to the word ""bitch"" (or insecure about the size of their breasts) or the word ""faggot"" (or insecure about their relationships with their parents), or ""nigger"" (or insecure about their hair) is totally responsible for how they feel five seconds after the jerk says such things to them?
+
+If your friend tells you that his SO said, ""I settled for you,"" what do you say to your friend? Do you tell him to break up with his SO, get over her, and pay attention to the people in his life who understand how incredible he is so that her poisonous words no longer have any power over him? Perhaps, but do you say that right then, when he is in tears? Is your friend 100% responsible for his initial visceral reaction to those words, or is there ways in which is response to them (especially his initial response) is involuntary? "
+1iqz14|cb7894f|cb7imjb,1iqz14,4,cb7894f,cb7imjb,Strong R1,Strong R1,Strong R1,True,False,Weak R1,Strong R1,Weak R1,True,False,both,R1_only,neither,False,0,0,0,1,"I believe that people who are offended by ""bad"" words are the people who give the words the power to be ""bad"" CMV","You are not gay, you are not black. So of course the words nigger and faggot don't offend you.  They aren't words that were used while you were beat up and tormented.
+
+The word faggot reminds me that there are millions of people out there who want me dead. No matter what happens, that word will always give me that reminder. Period. You can't just magically erase my experiences.
+
+And btw, just because you have a friend/roommate that is gay, that doesn't give you any particular insight at all. Who cares? That doesn't bolster your argument one bit.  Yeah, not all gay people are offended by the word. That doesn't change anything.
+
+>I completely understand being offended when someone is spewing hate.
+
+Using the word faggot or nigger is spewing hate.  
+
+
+Here is an explanation in the form of comedy from Louis CK who previously had your stance, that all words are fair game in standup.  He made this [scene](https://www.youtube.com/watch?v=v-55wC5dEnc) in order to apologize to the gay population, because he has since changed his stance on the issue, and no longer uses the word faggot in his standup routine.","It's no accident that swears have arisen in (almost) every human culture. If people stopped caring about using ""faggot"" and ""nigger"" other words phrases gestures or actions would arise to mean the same thing."
+1iqz14|cb76z6q|cb7894f,1iqz14,4,cb76z6q,cb7894f,Weak R1,Strong R1,Weak R1,True,False,Weak R1,Strong R1,Weak R1,True,False,both,both,neither,False,0,0,0,1,"I believe that people who are offended by ""bad"" words are the people who give the words the power to be ""bad"" CMV","The words have objective power. People aren't as offended by them, as they can be completely fucked up by them.
+
+Let's say you were raped. Would anyone be surprised if aggressive flirting from a stranger, without warning, could set your adrenaline running wild? How about words like ""Slut?"" When you fought, as hard as you could, but nobody believes you because you invited him in? Is it okay if it triggers you, then?
+
+It's not just rape victims, of course. And it doesn't even need to be a word. Any car backfires, and suddenly it's a Delorean time machine, for many combat vets.
+
+This really isn't even doing PTSD justice. It feels like a literal heart attack, and mimics many of the symptoms of a psychotic break. It's a disease in every sense of the word, outside of public opinion.  
+
+You don't cure it by triggering it over and over again. Not when ""Nigger"" and ""Faggot"" can still be a threat in many parts of the country, the prelude to violence. 
+
+Taking back words doesn't work if the same people who used them to dehumanize you look and sound exactly like those who want to play with the word really bad just because it's forbidden. ","You are not gay, you are not black. So of course the words nigger and faggot don't offend you.  They aren't words that were used while you were beat up and tormented.
+
+The word faggot reminds me that there are millions of people out there who want me dead. No matter what happens, that word will always give me that reminder. Period. You can't just magically erase my experiences.
+
+And btw, just because you have a friend/roommate that is gay, that doesn't give you any particular insight at all. Who cares? That doesn't bolster your argument one bit.  Yeah, not all gay people are offended by the word. That doesn't change anything.
+
+>I completely understand being offended when someone is spewing hate.
+
+Using the word faggot or nigger is spewing hate.  
+
+
+Here is an explanation in the form of comedy from Louis CK who previously had your stance, that all words are fair game in standup.  He made this [scene](https://www.youtube.com/watch?v=v-55wC5dEnc) in order to apologize to the gay population, because he has since changed his stance on the issue, and no longer uses the word faggot in his standup routine."
+1iqz14|cb7exw1|cb7imjb,1iqz14,4,cb7exw1,cb7imjb,Strong R1,Strong R1,Strong R1,True,False,Weak R1,Strong R1,Strong R1,True,False,R1_only,R1_only,R1_only,True,0,0,0,0,"I believe that people who are offended by ""bad"" words are the people who give the words the power to be ""bad"" CMV","Have you seen this thread today: [What's the most insulting, cold blooded,insensitive thing you can say to someone?](http://www.reddit.com/r/AskReddit/comments/1ir21c/whats_the_most_insulting_cold_bloodedinsensitive/)
+
+For most of the insults provided in that thread, the commenter has to tell a story about why it hurt so much. Most of them rely on context for their power. You can't say, ""I settled for you,"" to anyone but an SO. ""Everyone hates you just as much as you hate yourself,"" only works for someone who has self-esteem issues. ""I hope your baby is born dead,"" obviously only works for a pregnant woman or expectant father. 
+
+When you're dealing with words like ""nigger,"" ""faggot,"" ""bitch,"" etc., you're dealing with words that have a lot of context for a lot of people. On some level, those of us who are offended by such words can reclaim them and recontextualize them so that they no longer cause us pain. But that is going to take time, effort, and creativity. To strip the words of their power, we have to write a new story for them. Words come to us with attached stories already written. All words have some baggage, because if they didn't have any meaning already associated with them before they get to us, they would just be sounds, not words. Some words have more baggage than others when they get to us. We have the power to accept, reject, or rewrite the stories associated with the words we receive, but this is no easy task.
+
+So if you find yourself gay or black or female in a community that uses ""faggot,"" ""nigger,"" or ""bitch"" in a negative way, and the community shows no signs of stopping, then perhaps you are right, and the best strategy to to spend the time, energy, and creativity necessary to strip these words of their power over you.
+
+But if you find yourself in a community of gay people, black people, and female people who feel stressed, self-conscious, upset, or angry when they hear certain words, don't you have some responsibility as a minimally decent human being to try and avoid using these words and to discourage others in the community from them using them too? I once read a relationship advice book that said, ""Push the right buttons."" The idea was that when you really get to know someone, you know their insecurities, their pet peeves, and their weaknesses. You can make their life a living hell if you want to, or you can encourage them, put them at ease, and surprise them with good things. Few people can hurt your family and friends as much as you can, and few people can make them feel as happy. 
+
+The stakes are much lower when you're interacting with strangers and acquaintances, but shouldn't the same general principle apply? Wouldn't a nice or decent person say things like, ""You look nice today,"" and ""I appreciate your hard work,"" and ""Hope you have a great weekend""? Doesn't the jerk who says things like, ""Here's a tip as small as your tits, bitch,"" and ""I bet your father is embarrassed to see you in those shoes, faggot,"" and ""Get your nappy old hair out of my face, nigger,"" bear some measure of responsibility for what he or she says? I think we can agree that a person who says such thing is ridiculous. But does this necessarily mean that people who are sensitive to the word ""bitch"" (or insecure about the size of their breasts) or the word ""faggot"" (or insecure about their relationships with their parents), or ""nigger"" (or insecure about their hair) is totally responsible for how they feel five seconds after the jerk says such things to them?
+
+If your friend tells you that his SO said, ""I settled for you,"" what do you say to your friend? Do you tell him to break up with his SO, get over her, and pay attention to the people in his life who understand how incredible he is so that her poisonous words no longer have any power over him? Perhaps, but do you say that right then, when he is in tears? Is your friend 100% responsible for his initial visceral reaction to those words, or is there ways in which is response to them (especially his initial response) is involuntary? ","It's no accident that swears have arisen in (almost) every human culture. If people stopped caring about using ""faggot"" and ""nigger"" other words phrases gestures or actions would arise to mean the same thing."

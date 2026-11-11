@@ -1,0 +1,4 @@
+Method,Correlation C-E (rank r),Lambda observed [95% CI],Reliability C / E,Correlation corrected for unreliability,Lambda corrected
+Human (H1),0.84,"0.29 [0.23, 0.35]",0.67 / 0.64,1.00,0.00
+GPT-6.1 Sol,0.84,"0.29 [0.24, 0.35]",0.98 / 0.97,0.86,0.26
+Claude Sonnet 5.5,0.85,"0.28 [0.22, 0.34]",0.95 / 0.95,0.89,0.20
